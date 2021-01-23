@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks><type> countriesIsreal
+        <name>Isreal </name>
+        <Translation>State of Isreal</Translation>
+        <Aliases>  n/a </Aliases> 
+        <Date>Date for Masks: 1970s - 1980s </Date>
+        <Frequency>  Common </Frequency>
+        <Country>Capital: Jarusalem </Country>
+        <Function> Military/Civilian/ </Function>
+        <Refrence> IS-???</Refrence>
+        <Ref> IS </Ref>
+        <pic>https://dl.dropbox.com/u/14570796/Images/flagIsreal.jpg</pic>
+        <price>Currency: Shekel</price>
+            <Notes> he modern State of Israel was declared in 1948, and traces its historical and religious roots to the Biblical Land of Israel. Israel declared independence on 14 May 1948 and neighboring Arab states invaded the next day.Since then, Israel has fought a series of wars with neighboring Arab states,[14] and has occupied territories, including the West Bank, Sinai Peninsula, Gaza Strip and the Golan Heights. Isreal has a lrage civil defense Program since all citizens must serve in the army. As such their masks are some of the most common on the market.</Notes>
+    </type>
+    
+<type> Model No. 4
+    <name>Model No. 4</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Common</Frequency>
+    <Country>  Israel </Country>
+    <Function>  Civilian</Function>
+    <Refrence> IS-001</Refrence>
+    <Ref>IS-001</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/IS-001.jpg</pic>
+    <price>  $40</price>
+    <Notes>  The Shalon Chemicals Model No. 4 is perhaps one of the most commonly found surplus gas masks in US. The mask is of simple construction with no inner mask. A five point quick release head harness was used for suspension. The Model No. 4 is a licensed copy of the German Draeger Simplex mask, and was also made in a children's size.</Notes>
+</type>
+
+<type> Model No. 4 (children's size)
+    <name>Model No. 4 (children's size)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Common</Frequency>
+    <Country>  Israel </Country>
+    <Function>  Civilian</Function>
+    <Refrence> IS-002</Refrence>
+    <Ref>IS-002</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/IS-002.jpg</pic>
+    <price>  $30 </price>
+    <Notes>  This version of the Shalon Chemicals Model No. 4 is identical to the above version, but was made in an extra small size for children. The children's size is quite common, like the adult version.</Notes>
+</type>
+
+<type> Model No. 4 (2nd Generation)
+    <name>Model No. 4 (2nd Generation)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1980s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Israel</Country>
+    <Function>  Civilian</Function>
+    <Refrence> IS-003</Refrence>
+    <Ref>IS-003</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/IS-003.jpg</pic>
+    <price>  $50 </price>
+    <Notes>  This Israel civilian mask is basically an upgraded Model No. 4. A drinking port was added and an inner mask incorporated to help reduce fogging, a common problem with the Model No. 4. In addition, the inlet/outlet assembly was updated and the head harness was changed from rubber to elastic. All of these changed most likely made the mask for efficient and more comfortable. This updated version is somewhat rare in the US, as fewer were im p o r t e d .</Notes>
+</type>
+
+<type> M15A1
+    <name>M15A1</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1980s </Date>
+    <Frequency> Common</Frequency>
+    <Country>  Israel </Country>
+    <Function>  Military</Function>
+    <Refrence> IS-004</Refrence>
+    <Ref>IS-004</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/IS-004.jpg</pic>
+    <price>  $65 </price>
+    <Notes>  The Israeli M15A1 is another mask modeled after the German M65/Karetta style mask. The M15A1 is a very comfortable mask with both a drinking port and a speech diaphragm. The M15A1 is quite common in the US as many imported as surplus.</Notes>
+</type>             </masks>

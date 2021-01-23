@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="MMLayout.xsl" type="text/xsl" ?> <masks>
+<type>
+    <name>My Mask Collection</name>
+    <pic>https://dl.dropbox.com/u/14570796/Images/frontold.jpg</pic>
+</type>
+<type> M76
+    <name>M76</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  Hungary</Country>
+    <Function>  Civilian</Function>
+    <Refrence> HU-004</Refrence>
+    <Ref>HU-004</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/HU-004.jpg</pic>
+    <price>  $75</price>
+    <condition>Mint, original carrier and filter</condition>
+    <Notes>   This mask used a green canvas face piece. However, this version was a civilian mask which used a smaller filter canister in the snout position. The inlet/outlet assembly used for this mask is also quite different than the other M-76 version. The mask was imported into the US as surplus in large quantities during the 1990s, and is thus quite common on the surplus market today.</Notes>
+    <xtrapic>my-002-01.jpg</xtrapic>
+    <xtrapic>my-002-02.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-002-03.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-002-04.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-002-05.jpg</xtrapic>
+</type>
+
+<type> US Army M3-10A1-6 Lightweight Service Gas Mask
+    <name>US Army M3-10A1-6 Lightweight Service Gas Mask</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1944 </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  United States </Country>
+    <Function>  Military</Function>
+    <Refrence> US-028</Refrence>
+    <Ref>US-028</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/US-028.jpg</pic>
+    <price>  $140</price>
+    <condition>Good, slight mask stiffness and discoloration, original carrier and filter</condition>
+    <Notes>  The Army M3-10A1-6 was a modification of the earlier M2A2 Service Gas Mask. The mask was designed to be lighter, so a shorter breathing tube was used with a lightweight M10A1 filter canister fixed to the end. An inner oronasal cup was also incorporated to reduce fogging of the eye pieces. The head harness was also riveted onto the face piece differently, so as to not require rifle skids. This factor makes the M3-10A1-6 easy to distinguish from the other lightweight service gas masks. The M3-10A1-6 was made in fairly significant numbers but it is still somewhat difficult to find today. This mask is in rather poor condition with mold damage and large dents to filter canister.</Notes>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-003-01.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-003-02.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-003-03.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-003-04.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-003-05.jpg</xtrapic>
+</type>
+
+<type> Противогаз Детский Фильтрующий ПДФ-Д
+    <name>Противогаз Детский Фильтрующий ПДФ-Д</name>
+    <Translation> Children's Filtering Gas Mask PDF-D</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s/1980s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-039</Refrence>
+    <Ref>RU-039</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-039.jpg</pic>
+    <price>  $25</price>
+    <condition>Mint, original carrier and filter</condition>
+    <Notes>  Like the PDF-Sh, the PDF-D was a similar children's gas mask designed for use by youths, ages 7 to 17. The mask could be used with a small filter canister or a full sized GP-5 filter. Like the PDF-Sh, the PDF-D was made in several sizes and in both gray and black rubber. Unlike most PDF-D's this mask comes in light brown rubber with the smaller GP-5 cannister. Size 4 is noted on booth cheeks making this mask the largest size PDF-D. The mask is in Excellect condition with no discernable wear or damage.</Notes>
+    <xtrapic>my-004-01.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-004-02.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-004-03.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-004-04.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-004-05.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-004-06.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/Images/my-004-07.jpg</xtrapic>
+</type>
+
+<type> VM-40 (Volksgasmaske 40) (Black version)
+    <name>VM-40 (Volksgasmaske 40) (Black version)</name>
+    <Translation> People's Gas Mask 1940</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1943 </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Germany </Country>
+    <Function>  Civilian</Function>
+    <Refrence> GE-014</Refrence>
+    <Ref>GE-014</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/GE-014.jpg</pic>
+    <price>  $90 </price>
+    <condition>Fine, yellow lens occusion, original filter, missing carrier</condition>
+    <Notes>  This later black version of the VM-40 was again a result of depleted raw materials at Germany's disposal mid war. The black rubber versions were manufactured using a lesser quality rubber, and the head harness was also changed and made entirely from rubber as well.</Notes>
+    <xtrapic>https://dl.dropbox.com/u/14570796/picproc/my-005-1.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/picproc/my-005-2.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/picproc/my-005-3.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/picproc/my-005-4.jpg</xtrapic>
+    <xtrapic>https://dl.dropbox.com/u/14570796/picproc/my-005-5.jpg</xtrapic>
+</type>
+
+<type> SchM41M (East German Designation)
+    <name>SchM41M (East German Designation)</name>
+    <Translation> n/a</Translation>
+    <Aliases>   SM-1, ShM, Helmet Mask</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-016</Refrence>
+    <Ref>RU-016</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-016.jpg</pic>
+    <price> $120</price>
+    <condition>Mint, missing origninal carrier and filter, has GP5 filter instead</condition>
+    <Notes>  The SchM41M was based on the WWII Russian SM-1 gas mask. Like its WWII predecessor, the SchM41M used an encapsulating "helmet" styled face piece with two internal Tissot style tubes. Variations of this mask were used throughout eastern Europe by most of the Warsaw Pact countries well into the 1980s. The mask was typically carried in a rubberized, olive drab bag.</Notes>
+</type>
+
+<type> Гражданский Противогаз 4 (ГП-4у)
+    <name>Гражданский Противогаз 4 (ГП-4у)</name>
+    <Translation> Civilian Gas Mask 4 (GP-4y)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s/1960s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-013</Refrence>
+    <Ref>RU-013</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-013.jpg</pic>
+    <price>  $40</price>
+    <condition>Good, rust around lenses, missing carrier and filter</condition>
+    <Notes>  The ГП-4у was most likely designed after WWII to be a civilian replacement for the Маска 0-8. There are several different versions of the ГП-4у, with the one pictured to the right being the most common, and most likely from the 1960s. An earlier version was also produced and was made of a soft gray rubber. Variants of the ГП-4у were also made in Poland and some other Eastern Bloc countries during the 1960's and 70s.</Notes>
+</type>
+
+<type> Model No. 4
+    <name>Model No. 4</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Common</Frequency>
+    <Country>  Israel </Country>
+    <Function>  Civilian</Function>
+    <Refrence> IS-001</Refrence>
+    <Ref>IS-001</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/IS-001.jpg</pic>
+    <price>  $40</price>
+    <condition>Fine, rubber cracking on straps, missing carrier</condition>
+    <Notes>  The Shalon Chemicals Model No. 4 is perhaps one of the most commonly found surplus gas masks in US. The mask is of simple construction with no inner mask. A five point quick release head harness was used for suspension. The Model No. 4 is a licensed copy of the German Draeger Simplex mask, and was also made in a children's size.</Notes>
+</type>
+
+<type> Appareil Ajax F. 2
+    <name>Appareil Ajax F. 2</name>
+    <Translation>Ajax Device F. 2 </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  France</Country>
+    <Function>  Civilian</Function>
+    <Refrence> FR-016</Refrence>
+    <Ref>FR-016</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/FR-016.jpg</pic>
+    <price>  $50 </price>
+    <condition>Fine, heavy lens occlusion, with origninal filter and carrier</condition>
+    <Notes>  The Ajax F. 2 is a simple mask very similar to the Italian T. 35. The mask was issued in a tall cardboard contained similar to the ones used with the T.C. 38. The filter canister used is also similar to the ones used with the T.C. 38 gas masks.</Notes>
+</type>
+
+<type> A.N.P. T 31 (Appareil Normal de Protection Type 31)
+    <name>A.N.P. T 31 (Appareil Normal de Protection Type 31)</name>
+    <Translation> Normal Protective Device Type 31</Translation>
+    <Aliases>   Appareil L.S.T.</Aliases>
+    <Date>   c. 1931 </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-007</Refrence>
+    <Ref>FR-007</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/FR-007.jpg</pic>
+    <price>  $165</price>
+    <condition>Poor, extreme stiffness, mask cannot be opened, kinks in hose, discoloration, with original filter</condition>
+    <Notes>  The A.N.P. T 31 is very similar in appearance and design to the earlier A.R.S. gas mask. The A.N.P. T 31 was the standard mask used by the French military during the inter-war years and on into WWII. It was typically used with a long breathing tube and a single filter canister.</Notes>
+</type>
+
+<type> US MIA2-I-I Noncombatant Gas Mask
+    <name>US MIA2-I-I Noncombatant Gas Mask</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1943 </Date>
+    <Frequency> Common</Frequency>
+    <Country>  United States </Country>
+    <Function>  Civilian</Function>
+    <Refrence> US-058</Refrence>
+    <Ref>US-058</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/US-058.jpg</pic>
+    <price>  $25</price>
+    <condition>Fine, slight lens yellowing, <u>with original filter, carrier and manual</u></condition>
+    <Notes>  Perhaps the most commonly found US gas mask from the W.W.II era is the MIA2-I-I Noncombatant Gas Mask. It is not difficult to find these masks still in the original cardboard box. The face piece was made of a thin piece of rubberized material that was more comfortable than the earlier MI-I-I. The chin area was shaped to accommodate the wearers chin and thus created a better fit. The MIV button type exhale valve was replaced with the widely used M8 exhale valve. The large fixed filter was secured in place with a metal band as opposed to a rubber band, making it more durable and less likely to leak.</Notes>
+</type>
+</masks>

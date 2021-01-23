@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks>
+<type> countriesUSSR
+        <name>U.S.S.R. </name>
+        <Translation>Union ofSoviet Socialist Republics</Translation>
+        <Aliases>  CCCP, Soviet Russia</Aliases>
+        <Date> Date for Masks: 1922 - 1991 </Date>
+        <Frequency>  Common </Frequency>
+        <Country>Capital: Moscow </Country>
+        <Function> Military/Civilian/Industrial </Function>
+        <Refrence> RU-???</Refrence>
+        <Ref> RU </Ref>
+        <pic>https://dl.dropbox.com/u/14570796/Images/flagUSSR.jpg</pic>
+        <price>Currency: Soviet ruble</price>
+        <Notes>  The Union of Soviet Socialist Republics, commonly known as the Soviet Union  was a constitutionally socialist state that existed in Eurasia between 1922 and 1991.The Soviet Union had a single-party political system dominated by the Communist Party until 1990. Although the USSR was nominally a union of Soviet republics (15 in all after 1956) with the capital in Moscow, it was actually a highly centralized state with a planned economy. The Russian Revolution of 1917 brought about the downfall of the Russian Empire. After the Bolsheviks won the ensuing Russian Civil War, the Soviet Union was founded in December 1922. Following the death of the first Soviet leader, Vladimir Lenin, in 1924, Joseph Stalin eventually won a power struggle and led the country through a large-scale industrialization with a command economy and political repression. In World War II, in June 1941, Germany and its allies invaded the Soviet Union. After four years of brutal warfare, the Soviet Union emerged victorious as one of the world's two superpowers, the other being the United States. The Soviet Union and its Eastern European satellite states engaged in the Cold War, a prolonged global ideological and political struggle against the United States and its Western Bloc allies, which it ultimately lost in the face of economic troubles and both domestic and foreign political unrest. In the late 1980s, the last Soviet leader Mikhail Gorbachev tried to reform the state with his policies of perestroika and glasnost, but the Soviet Union collapsed and was formally dissolved in December 1991 after the abortive August coup attempt. The Russian Federation assumed its rights and obligations.
+            Due to a large Civil Defense Program and the USSR's breakdown there are large numbers of Russian gas masks on the military surplus Market. Making masks made by the USSR the most common found Today. 
+        </Notes>
+    </type>
+
+<type> Шлем-Маска
+        <name>Шлем-Маска</name>
+        <Translation> Helmet Mask</Translation>
+        <Aliases>   БН-T5 (BN-T5)</Aliases>
+        <Date>   c. 1930s/1940s </Date>
+        <Frequency> Scarce</Frequency>
+        <Country>  USSR </Country>
+        <Function>  Military/Civilian</Function>
+        <Refrence> RU-002</Refrence>
+        <Ref>RU-002</Ref>
+        <pic>https://dl.dropbox.com/u/14570796/Images/RU-002.jpg</pic>
+        <price>? $200+</price>
+        <Notes>  During WWII, the Soviets developed an updated version of the WWI Zelinsky-Kumant mask for military and civilian use. It used a helmet design similar to its WWI predecessor, but was made of thick molded rubber instead of glued sheet rubber. The face piece was referred to as the Шлем-Маска (Helmet Mask) but was also sometime called the БН-T5, which referred to it being an Army mask that used the T-5 type filter canister. A long corrugated breathing hose connected the face piece to the large metal filter unit, which was carried in a satchel at the wearer's side. A 'flapper' type exhale valve protected by a metal guard was also part of the assembly. When in use, the rubber protrusion between the eyes was turned in, to allow the wearer to insert a finger and wipe condensation from the eye pieces. Like all early Soviet gas masks, this type is quite scarce today as most were discarded after the end of the war.</Notes>
+</type>
+
+
+<type> Маска 0-8
+        <name>Маска 0-8</name>
+        <Translation> Mask O-8</Translation>
+        <Aliases>   n/a</Aliases>
+    <Date>   c. 1940 </Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-003</Refrence>
+    <Ref>RU-003</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-003.jpg</pic>
+    <price>  $500</price>
+    <Notes>  During WWII, the Маска 0-8 was issued to the Soviet Red Army and also possibly to civilians and civil defense personnel. The mask was made of thin but durable rubber and was assembled with a long breathing tube and a Т-Ч type filter canister. There was no inner mask, making the Маска 0-8 prone to fogging. Although they are very much alike, the Маска 0-8 should not be confused with the Маска МОД-0-8 (Mask MOD-O-8), a similar mask used during the same time period (see below). Like all WWII Russian masks, the Маска 0-8 is now very scarce and difficult to find in any condition.</Notes>
+</type>
+
+<type> Маска МОД-0-8
+    <name>Маска МОД-0-8</name>
+    <Translation> Mask MOD-O-8</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1940 </Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-004</Refrence>
+    <Ref>RU-004</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-004.jpg</pic>
+    <price>  $500</price>
+    <Notes>  The Маска МОД-0-8 is another mask used by the Soviet military during WWII. It is possible that it was meant to be an updated version of the Маска 0-8, as its features are very similar. However, the Маска 0-8 did not have an inner mask or any Tissot tubes, making it prone to fogging, but the МОД-0-8 used a single tube on the inside of the mask to help reduce condensation on the eye pieces. The face piece is also slightly larger, and the rubber used was a bit thicker. This most likely made the МОД-0-8 more durable and possibly more comfortable. Like the Маска 0-8, the МОД-0-8 is very scarce today, and when found is usually in poor co nditio n.</Notes>
+</type>
+
+<type> Шлем-Маска ШМ-1
+    <name>Шлем-Маска ШМ-1</name>
+    <Translation> Helmet Mask SM-1</Translation>
+    <Aliases>   ShM1</Aliases>
+    <Date>   c. 1939 </Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-005</Refrence>
+    <Ref>RU-005</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-005.jpg</pic>
+    <price>  $385</price>
+    <Notes>  The WWII ШМ-1 is quite an important mask. Its design was the basis for a series of helmet type masks that went on to be used for decades after WWII. The former Soviet Union used several variations of the ШМ-1 for military, civilian and industrial purposes well into the 1980s. Many other countries, including most of the Warsaw Pact states and even China used helmet styled masks derived directly from the Soviet models. The early ШМ-1 looks almost identical to its modern counter-parts, but there are several things that distinguish it from later versions. Most notably, the Tissot styled tubes on the inside of the mask are separate, black rubber pipes that were not part of the mask's face piece mold. The version pictured to the right is of the earliest type, with a metal band used to secure the inlet/outlet assembly instead of the later and more commonly used crimped metal assembly (see ШМ-1 below) Today, WWII era ШМ-1 gas masks are quite scarce in any condition.</Notes>
+</type>
+
+<type> Шлем-Маска ШМ-1
+    <name>Шлем-Маска ШМ-1</name>
+    <Translation> Helmet Mask SM-1</Translation>
+    <Aliases>   ShM1</Aliases>
+    <Date>   c. 1939 </Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-006</Refrence>
+    <Ref>RU-006</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-006.jpg</pic>
+    <price>  $385</price>
+    <Notes>  The WWII ШМ-1 is quite an important mask. Its design was the basis for a series of helmet type masks that went on to be used for decades after WWII. The former Soviet Union used several variations of the ШМ-1 for military, civilian and industrial purposes well into the 1980s. Many other countries, including most of the Warsaw Pact states and even China used helmet styled masks derived directly from the Soviet models. The early ШМ-1 looks almost identical to its modern counter-parts, but there are several things that distinguish it from later versions. Most notably, the Tissot styled tubes on the inside of the mask are separate, black rubber pipes that were not part of the mask's face piece mold. The version pictured to the right used a crimped metal ring to secure the inlet assmebly, which was the method used for all future versions of the ШМ-1. Today, WWII era ШМ-1 gas masks are quite scarce in any condition.</Notes>
+</type>
+
+<type> Шлем-Маска ШМ-1
+    <name>Шлем-Маска ШМ-1</name>
+    <Translation> Helmet Mask SM-1</Translation>
+    <Aliases>   ShM1</Aliases>
+    <Date>   c. 1950s/1960s </Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-015</Refrence>
+    <Ref>RU-015</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-015.jpg</pic>
+    <price> $385</price>
+    <Notes>  This version of the ШМ-1 is a post war model which used a new face piece mold that integrated the Tissot tubes on the inside of the mask. This change most likely reduced production costs and increased efficiency. It also probably made the mask more comfortable and enhanced the demisting of the eye pieces. This seems to be the only major design change that mask underwent during this time, however the mold was again updated in the 1970s again, but the changes were slight and almost unno ticeable.</Notes>
+</type>
+
+<type> Изолирующий Противогаз ИП-46
+    <name>Изолирующий Противогаз ИП-46</name>
+    <Translation> Insulator Gas Mask IP-46</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1940s</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-007</Refrence>
+    <Ref>RU-007</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-007.jpg</pic>
+    <price>  $100</price>
+    <Notes>  The ИП-46 is an early Soviet rebreather system most likely used on board ships or inside tanks. The mask consisted of a 'helmet' type face piece that was attached to an elbow shaped metal pipe and corrugated hose tube. The rebreather unit was carried in a large canvas satchel in the chest position. Like all rebreather units, the ИП-46 was most likely intended for use during emergency rescue and escape situations. The ИП-46 went on to be used after WWII for industrial applications.</Notes>
+</type>
+
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> n/a</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1940s </Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Unknown</Function>
+    <Refrence> RU-008</Refrence>
+    <Ref>RU-008</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-008.jpg</pic>
+    <price>? $200+</price>
+    <Notes>  This strange WWII era mask seems to be a combination of the IP-46 Rebreather and the Шлем-Маска (see above). The face piece is virtually identical to the</Notes>
+</type>
+
+<type> Гражданский Противогаз 2 (ГП-2)
+    <name>Гражданский Противогаз 2 (ГП-2)</name>
+    <Translation> Civilian Gas Mask 2 (GP-2)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-009</Refrence>
+    <Ref>RU-009</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-009.jpg</pic>
+    <price>  $325</price>
+    <Notes>  The ГП-2 is a rare, early Russian mask issued to civilians during WWII. It features a fixed filter unit and a protected exhale valve on the left side of the face piece. The eye pieces are made from a thin transparent plastic similar to many other civilian masks from other countries. The ГП-2 is a simple mask and most likely only offered a limited amount of protection. It is also important to note that a later version of the ГП-2 was also manufactured (see below), fabricated from slightly different materials. ГП-2 gas masks are extremely rare today, and are typically quite expensive when found.</Notes>
+</type>
+
+<type> Гражданский Противогаз 2 (ГП-2)
+    <name>Гражданский Противогаз 2 (ГП-2)</name>
+    <Translation> Civilian Gas Mask 2 (GP-2)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-010</Refrence>
+    <Ref>RU-010</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-010.jpg</pic>
+    <price>  $300</price>
+    <Notes>  The ГП-2 is a rare, early Russian mask issued to civilians during WWII. It features a fixed filter unit and a protected exhale valve on the left side of the face piece. The eye pieces are made from a thin transparent plastic similar to many other WWII era civilian masks from other countries. The ГП-2 is a simple mask and most likely only offered a limited amount of protection. It is also important to note that an earlier version of the ГП-2 was manufactured (see above), fabricated from slightly different materials. ГП-2 gas masks are extremely rare today, and are typically quite expensive when found.</Notes>
+</type>
+
+<type> Конский Сухой Противогаз КСПМ
+    <name>Конский Сухой Противогаз КСПМ</name>
+    <Translation> Horse Gas Mask</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-011</Refrence>
+    <Ref>RU-011</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-011.jpg</pic>
+    <price>  $320</price>
+    <Notes>  During WWII, the Soviet Army produced several different protective masks for horses. The mask pictured to the right was made of fabrisized rubber with two built in filter elements on each side. The mask fit over the horse's snout, and was then strapped to the animal's head via a series of belts. A similar mask was made during the 1950s and used in the USSR, Poland and possibly some other Eastern Bloc countries (see below).</Notes>
+</type>
+
+<type> Конский Сухой Противогаз
+    <name>Конский Сухой Противогаз</name>
+    <Translation> Horse Gas Mask</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s</Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  USSR/Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-012</Refrence>
+    <Ref>RU-012</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-012.jpg</pic>
+    <price> $320</price>
+    <Notes>  This post war Soviet horse gas mask is very similar in design to the WWII version (above). However, it was made of different materials and was accompanied by a pair of gas proof goggles. Like most horse respirators, this mask was probably used in conjunction with a gas proof cape and leggings. This mask comes stowed in a large wooden box.</Notes>
+</type>
+
+<type> Гражданский Противогаз 4 (ГП-4у)
+    <name>Гражданский Противогаз 4 (ГП-4у)</name>
+    <Translation> Civilian Gas Mask 4 (GP-4y)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s/1960s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-013</Refrence>
+    <Ref>RU-013</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-013.jpg</pic>
+    <price>  $40</price>
+    <Notes>  The ГП-4у was most likely designed after WWII to be a civilian replacement for the Маска 0-8. There are several different versions of the ГП-4у, with the one pictured to the right being the most common, and most likely from the 1960s. An earlier version was also produced and was made of a soft gray rubber. Variants of the ГП-4у were also made in Poland and some other Eastern Bloc countries during the 1960's and 70s.</Notes>
+</type>
+
+<type> MM1
+    <name>MM1</name>
+    <Translation> </Translation>
+    <Aliases>   Schutzmaske K (early East German designation)</Aliases>
+    <Date>   c. 1950s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  USSR/East Germany </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-014</Refrence>
+    <Ref>RU-014</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-014.jpg</pic>
+    <price> $90</price>
+    <Notes>  The MM1 Gas Mask is an earlier special purpose mask used for radio operators, tank commanders and officers who needed expanded voice communication capabilities. The mask was issued with a long breathing tube and a large cylindrical filter canister. A highly effective voice amplifier was fixed in the center of the face piece which allowed enhanced vocal communication. The MM1 was issued with both a long rubber breathing tube and with a filter attached directly to the face piece.</Notes>
+</type>
+
+<type> SchM41M (East German Designation)
+    <name>SchM41M (East German Designation)</name>
+    <Translation> n/a</Translation>
+    <Aliases>   SM-1, ShM, Helmet Mask</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-016</Refrence>
+    <Ref>RU-016</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-016.jpg</pic>
+    <price> $120</price>
+    <Notes>  The SchM41M was based on the WWII Russian SM-1 gas mask. Like its WWII predecessor, the SchM41M used an encapsulating "helmet" styled face piece with two internal Tissot style tubes. Variations of this mask were used throughout eastern Europe by most of the Warsaw Pact countries well into the 1980s. The mask was typically carried in a rubberized, olive drab bag.</Notes>
+</type>
+
+<type> SchM41M (East German Designation)
+    <name>SchM41M (East German Designation)</name>
+    <Translation> n/a</Translation>
+    <Aliases>   SM-1, ShM, Helmet Mask</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-086</Refrence>
+    <Ref>RU-086</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-086.jpg</pic>
+    <price>  $120</price>
+    <Notes>  This version of the SchM41M was issued in East Germany and was equipped with an Übungsfilter (training filter) for use during NBC exercises. The mask itself is otherwise the same as the above mask.</Notes>
+</type>
+
+<type> Гражданский Противогаз 5 (ГП-5)
+    <name>Гражданский Противогаз 5 (ГП-5)</name>
+    <Translation> Civilian Gas Mask 5 (GP-5)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Very Common</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian/Industrial</Function>
+    <Refrence> RU-021</Refrence>
+    <Ref>RU-021</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-021.jpg</pic>
+    <price>  $12</price>
+    <Notes>  The Soviet GP-5 is quite possibly the most common gas mask available on the surplus market today. It used the helmet type design, but had a shorter inlet/outlet assembly when compared to the military types. The GP-5 was made in both gray and black rubber and was carried in a small green cloth bag.</Notes>
+</type>
+
+<type> Гражданский Противогаз 5 (ГП-5)
+    <name>Гражданский Противогаз 5 (ГП-5)</name>
+    <Translation> Civilian Gas Mask 5 (GP-5)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Common</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian/Industrial</Function>
+    <Refrence> RU-023</Refrence>
+    <Ref>RU-023</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-023.jpg</pic>
+    <price> $12</price>
+    <Notes>  The Soviet GP-5 is quite possibly the most common gas mask available on the surplus market today. It used the helmet type design, but had a shorter inlet/outlet assembly when compared to the military types. The GP-5 was made in both gray and black rubber and was carried in a small green cloth bag. The face piece was used for several industrial protective masks as well as for civilian defense.</Notes>
+</type>
+
+<type> Гражданский Противогаз 5 (ГП-5)
+    <name>Гражданский Противогаз 5 (ГП-5)</name>
+    <Translation> Civilian Gas Mask 5 (GP-5)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian/Industrial</Function>
+    <Refrence> RU-022</Refrence>
+    <Ref>RU-022</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-022.jpg</pic>
+    <price>  $60 </price>
+    <Notes>  This version of the GP-5 was issued with a corrugated breathing hose and a special purpose filter.</Notes>
+</type>
+
+<type> Гражданский Противогаз 5 (ГП-5)
+    <name>Гражданский Противогаз 5 (ГП-5)</name>
+    <Translation> Civilian Gas Mask 5 (GP-5)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian/Industrial</Function>
+    <Refrence> RU-024</Refrence>
+    <Ref>RU-024</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-024.jpg</pic>
+    <price>  $60 </price>
+    <Notes>  This version of the GP-5 was issued with a corrugated breathing hose and a special purpose filter.</Notes>
+</type>
+
+<type> Гражданский Противогаз 5 (ГП-5)
+    <name>Гражданский Противогаз 5 (ГП-5)</name>
+    <Translation> Civilian Gas Mask 5 (GP-5)</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian/Industrial</Function>
+    <Refrence> RU-025</Refrence>
+    <Ref>RU-025</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-025.jpg</pic>
+    <price>  $60 </price>
+    <Notes>  This version of the GP-5 was issued with a corrugated breathing hose and a special purpose filter.</Notes>
+</type>
+
+<type> PMG
+    <name>PMG</name>
+    <Translation> n/a</Translation>
+    <Aliases>   70M (Hungarian Designation)</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-032</Refrence>
+    <Ref>RU-032</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-032.jpg</pic>
+    <price> $20</price>
+    <Notes>  The Soviet PMG was used throughout the cold war era in both the USSR and Hungary. The Hungarian version is slightly different from the Soviet version but is structurally identical for the most part. Both types were made from gray rubber with two optical glass eye pieces, a speech diaphragm on the front and an exhale valve on the bottom.</Notes>
+</type>
+
+<type> PMG-2/GP-5M
+    <name>PMG-2/GP-5M</name>
+    <Translation> PMG-2/GP-5M</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-017</Refrence>
+    <Ref>RU-017</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-017.jpg</pic>
+    <price> $20</price>
+    <Notes>  The PMG-2 is a special mask made for use by radio personnel, tank drivers and possibly officers. The mask had a highly effective speech diaphragm on the front and ear holes on the side so that radio gear could be worn effectively. The mask was also used by civilians and civil defense personnel were it was designated the GP-5M. The mask was made in both gray and black rubber, and with and without a breathing hose.</Notes>
+</type>
+
+<type> PMG-2/GP-5M
+    <name>PMG-2/GP-5M</name>
+    <Translation> PMG-2/GP-5M</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-018</Refrence>
+    <Ref>RU-018</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-018.jpg</pic>
+    <price> $20</price>
+    <Notes>  The PMG-2 is a special mask made for use by radio personnel, tank drivers and possibly officers. The mask had a highly effective speech diaphragm on the front and ear holes on the side so that radio gear could be worn effectively. The mask was also used by civilians and civil defense personnel were it was designated the GP-5M. The mask was made in both gray and black rubber, and with and without a breathing hose.</Notes>
+</type>
+
+<type> PMG-2/GP-5M
+    <name>PMG-2/GP-5M</name>
+    <Translation> PMG-2/GP-5M</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-019</Refrence>
+    <Ref>RU-019</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-019.jpg</pic>
+    <price> Price Needed</price>
+    <Notes>  The PMG-2 is a special mask made for use by radio personnel, tank drivers and possibly officers. The mask had a highly effective speech diaphragm on the front and ear holes on the side so that radio gear could be worn effectively. The mask was also used by civilians and civil defense personnel were it was designated the GP-5M. The mask was made in both gray and black rubber, and with and without a breathing hose.</Notes>
+</type>
+
+<type> PMG-2/GP-5M
+    <name>PMG-2/GP-5M</name>
+    <Translation> PMG-2/GP-5M</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> RU-020</Refrence>
+    <Ref>RU-020</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-020.jpg</pic>
+    <price> $20</price>
+    <Notes>  The PMG-2 is a special mask made for use by radio personnel, tank drivers and possibly officers. The mask had a highly effective speech diaphragm on the front and ear holes on the side so that radio gear could be worn effectively. The mask was also used by civilians and civil defense personnel were it was designated the GP-5M. The mask was made in both gray and black rubber, and with and without a breathing hose.</Notes>
+</type>
+
+<type> SchR 1
+    <name>SchR 1</name>
+    <Translation> n/a</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-027</Refrence>
+    <Ref>RU-027</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-027.jpg</pic>
+    <price>  $130</price>
+    <Notes>  This mask was designed to be worn by soldiers suffering from a head wound in a hostile environment. Most likely, it was carried by medics. The mask is very similar to the standard SchM41M, but it had an extended rubber hood that could be secured around the wearer's neck with a strap.</Notes>
+</type>
+
+<type> SchR 2
+    <name>SchR 2</name>
+    <Translation> n/a</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-026</Refrence>
+    <Ref>RU-026</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-026.jpg</pic>
+    <price>  $90 </price>
+    <Notes>  This mask is another type of head wound gas mask which covered the wearer's whole head and was secured via straps in the back. An exhale valve was located on the side of the mask. This mask is fairly common and can usually be found in good condition.</Notes>
+</type>
+
+<type> Шлем-Маска ШМС
+    <name>Шлем-Маска ШМС</name>
+    <Translation> n/a</Translation>
+    <Aliases>   SchMS (East German Designation)</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-028</Refrence>
+    <Ref>RU-028</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-028.jpg</pic>
+    <price> $50</price>
+    <Notes>  The SchMS is a special purpose mask used by troops needing a gas mask that could be used with optical sighting devices. The mask was made from both gray and black rubber, and was carried in a green rubberized bag.</Notes>
+</type>
+
+<type> Шлем-Маска ШМС
+    <name>Шлем-Маска ШМС</name>
+    <Translation> n/a</Translation>
+    <Aliases>   SchMS (East German Designation)</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-029</Refrence>
+    <Ref>RU-029</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-029.jpg</pic>
+    <price> $50</price>
+    <Notes>  The SchMS is a special purpose mask used by troops needing a gas mask that could be used with optical sighting devices. The mask was made from both gray and black rubber, and was carried in a green rubberized bag.</Notes>
+</type>
+
+<type> PRWU (East German Designation)
+    <name>PRWU (East German Designation)</name>
+    <Translation> n/a</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-030</Refrence>
+    <Ref>RU-030</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-030.jpg</pic>
+    <price> $50</price>
+    <Notes>  The PRWU is another special purpose mask used by troops needing a gas mask that could be used with optical sighting devices, however the mask was equipped with a special protective sleeve that covered most of the breathing tube and a modified speech diaphragm. This mask was used by ground troops operating surface to air missile systems. Like the SchMS, the PRWU was made in both gray and black.</Notes>
+</type>
+
+<type> PRWU (East German Designation)
+    <name>PRWU (East German Designation)</name>
+    <Translation> n/a</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-031</Refrence>
+    <Ref>RU-031</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-031.jpg</pic>
+    <price> $50</price>
+    <Notes>  The PRWU is another special purpose mask used by troops needing a gas mask that could be used with optical sighting devices, however the mask was equipped with a special protective sleeve that covered most of the breathing tube and a modified speech diaphragm. This mask was used by ground troops operating surface to air missile systems. Like the SchMS, the PRWU was made in both gray and black.</Notes>
+</type>
+
+<type> Противогаз ПБФ
+    <name>Противогаз ПБФ</name>
+    <Translation> Gas Mask PBF</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-033</Refrence>
+    <Ref>RU-033</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-033.jpg</pic>
+    <price> $25</price>
+    <Notes>  The PBF is a special mask most likely used by border troops and other units that needed a light weight gas mask that offered freedom from the typical heavy rubber tube and filter. Two oval shaped filter elements (designated ЕО-19Э) were housed in bilateral cheek pockets, similar to the US M17 series. The mask also featured a speech diaphragm and an exhale valve on the front. Like most Soviet masks from the cold war era, the PBF was made in both gray and black rubber.</Notes>
+</type>
+
+<type> Противогаз ПБФ
+    <name>Противогаз ПБФ</name>
+    <Translation> Gas Mask PBF</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-034</Refrence>
+    <Ref>RU-034</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-034.jpg</pic>
+    <price> $25</price>
+    <Notes>  The PBF is a special mask most likely used by border troops and other units that needed a light weight gas mask that offered freedom from the typical heavy rubber tube and filter. Two oval shaped filter elements (designated ЕО-19Э) were housed in bilateral cheek pockets, similar to the US M17 series. The mask also featured a speech diaphragm and an exhale valve on the front. Like most Soviet masks from the cold war era, the PBF was made in both gray and black rubber.</Notes>
+</type>
+
+<type> Противогаз Детский Фильтрующий ПДФ-Ш
+    <name>Противогаз Детский Фильтрующий ПДФ-Ш</name>
+    <Translation> Children's Filtering Gas Mask PDF-Sh</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s/1980s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-036</Refrence>
+    <Ref>RU-036</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-036.jpg</pic>
+    <price>  $20 </price>
+    <Notes>  The small children's gas mask, designated the PDF-Sh was designed for use by young children ages 5 to 7. There were several types, all using the МД-3 (MD-3) face piece, with some made from gray rubber and some made from black rubber. The earliest type (at right) used a metal exhale valve guard whereas later types used a black plastic valve guard.</Notes>
+</type>
+
+<type> Противогаз Детский Фильтрующий ПДФ-Ш
+    <name>Противогаз Детский Фильтрующий ПДФ-Ш</name>
+    <Translation> Children's Filtering Gas Mask PDF-Sh</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s/1980s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-037</Refrence>
+    <Ref>RU-037</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-037.jpg</pic>
+    <price>  $25 </price>
+    <Notes>  The small children's gas mask, designated the PDF-Sh was designed for use by young children ages 5 to 7. There were several types, all using the МД-3 (MD-3) face piece, with some made from gray rubber and some made from black rubber. The earliest type used a metal exhale valve guard whereas later types used a black plastic valve guard.</Notes>
+</type>
+
+<type> Противогаз Детский Фильтрующий ПДФ-Ш
+    <name>Противогаз Детский Фильтрующий ПДФ-Ш</name>
+    <Translation> Children's Filtering Gas Mask PDF-Sh</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s/1980s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-038</Refrence>
+    <Ref>RU-038</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-038.jpg</pic>
+    <price>  $25 </price>
+    <Notes>  The small children's gas mask, designated the PDF-Sh was designed for use by young children ages 5 to 7. There were several types, all using the МД-3 (MD-3) face piece, with some made from gray rubber and some made from black rubber. The earliest type used a metal exhale valve guard whereas later types used a black plastic valve guard.</Notes>
+</type>
+
+<type> Противогаз Детский Фильтрующий ПДФ-Д
+    <name>Противогаз Детский Фильтрующий ПДФ-Д</name>
+    <Translation> Children's Filtering Gas Mask PDF-D</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s/1980s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-039</Refrence>
+    <Ref>RU-039</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-039.jpg</pic>
+    <price>  $25</price>
+    <Notes>  Like the PDF-Sh, the PDF-D was a similar children's gas mask designed for use by youths, ages 7 to 17. The mask could be used with a small filter canister or a full sized GP-5 filter. Like the PDF-Sh, the PDF-D was made in several sizes and in both gray and black rubber.</Notes>
+</type>
+
+<type> Противогаз Детский Фильтрующий ПДФ-Д
+    <name>Противогаз Детский Фильтрующий ПДФ-Д</name>
+    <Translation> Children's Filtering Gas Mask PDF-D</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s/1980s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-040</Refrence>
+    <Ref>RU-040</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-040.jpg</pic>
+    <price>  $30 </price>
+    <Notes>  Like the PDF-Sh, the PDF-D was a similar children's gas mask designed for use by youths, ages 7 to 17. The mask could be used with a small filter canister or a full sized GP-5 filter. Like the PDF-Sh, the PDF-D was made in several sizes and in both gray and black rubber.</Notes>
+</type>
+
+<type> Противогаз Детский Фильтрующий ПДФ-Д
+    <name>Противогаз Детский Фильтрующий ПДФ-Д</name>
+    <Translation> Children's Filtering Gas Mask PDF-D</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s/1980s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian</Function>
+    <Refrence> RU-041</Refrence>
+    <Ref>RU-041</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-041.jpg</pic>
+    <price>  $35 </price>
+    <Notes>  Like the PDF-Sh, the PDF-D was a similar children's gas mask designed for use by youths, ages 7 to 17. The mask could be used with a small filter canister or a full sized GP-5 filter. Like the PDF-Sh, the PDF-D was made in several sizes and in both gray and black rubber.</Notes>
+</type>
+
+<type> Детский Противогаз ДП-6
+    <name>Детский Противогаз ДП-6</name>
+    <Translation> Children's Gas Mask DP-6</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> RU-035</Refrence>
+    <Ref>RU-035</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-035.jpg</pic>
+    <price>  $65 </price>
+    <Notes>  The DP-6 was a civilian mask designed for young children who were to big for small child masks but not big enough for regular adult gas masks. The mask had a short rubber hose fixed to the front of the mask that was used with a GP-5 filter.</Notes>
+</type>
+
+<type> Изолирующий Противогаз ИП-4
+    <name>Изолирующий Противогаз ИП-4</name>
+    <Translation> Insulator Gas Mask IP-4</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-042</Refrence>
+    <Ref>RU-042</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-042.jpg</pic>
+    <price>  $200</price>
+    <Notes>  The IP-4 is one of several different types of Soviet style rebreather units. This model is very similar to the early WWII era IP-46. The rebreather bladder and generating unit was carried at the chest position in a green rubberized bag. The mask was of the helmet type, covering the wearer's whole face and head.</Notes>
+</type>
+
+<type> Изолирующий Противогаз ИП-5
+    <name>Изолирующий Противогаз ИП-5</name>
+    <Translation> Insulator Gas Mask IP-5</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1980s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-043</Refrence>
+    <Ref>RU-043</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-043.jpg</pic>
+    <price>  $245</price>
+    <Notes>  The IP-5 is another rebreather unit used by the Soviet Union and several Warsaw Pact countries. The Ip-5 was a larger unit than the IP-4 and most likely could be used for a longer period of time. A large rebreathing bladder was worn around the neck and inflated via a large oxygen generating canister that was strapped to the wearer's chest. The IP-5 was made in both gray and black.</Notes>
+</type>
+
+<type> Изолирующий Противогаз ИП-5
+    <name>Изолирующий Противогаз ИП-5</name>
+    <Translation> Insulator Gas Mask IP-5</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1980s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  USSR, Warsaw Pact Countries </Country>
+    <Function>  Military</Function>
+    <Refrence> RU-044</Refrence>
+    <Ref>RU-044</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/RU-044.jpg</pic>
+    <price> $245</price>
+    <Notes>  The IP-5 is another rebreather unit used by the Soviet Union and several Warsaw Pact countries. The Ip-5 was a larger unit than the IP-4 and most likely could be used for a longer period of time. A large rebreathing bladder was worn around the neck and inflated via a large oxygen generating canister that was strapped to the wearer's chest. The IP-5 was made in both gray and black.</Notes>
+</type>
+
+</masks>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><masks><type> countriesIraq
+        <name>_________Iraq___________________________ </name>
+        <Translation>_____Republic of Iraq___________________________</Translation>
+        <Aliases> Aiases: n/a</Aliases>
+        <Date> Date for Masks: 1974 -1985 </Date>
+        <Frequency> Frequency: Uncommon/Rare </Frequency>
+        <Country>Capital: Baghdad </Country>
+        <Function>Use: Military </Function>
+        <Refrence>Refrence: IR-???</Refrence>
+        <Ref> IR </Ref>
+        <pic>../Images/flagIraq.jpg</pic>
+        <price>Currency: Iraqi Dinar</price>
+        <Notes>Notes: In 1979, Saddam Hussein took power as Iraqi President after overthrowing his close friend and the leader of his party and killing and arresting his leadership rivals. Shortly after his taking power, the political situation in Iraq's neighbor Iran changed drastically after the success of the Islamic Revolution of Ayatollah Ruhollah Khomeini, which resulted in a Shi'ite Muslim theocratic state being established. This was seen as a dangerous change in the eyes of the Iraqi government, as Iraq too had a Shi'ite majority and was ruled by Hussein's government which, apart from having numerous Sunnis occupying leading positions, had a pan-Arab but non-religious ideology. n 1977, the Iraqi government ordered the construction of Osirak (also spelled Osiraq) at the Al Tuwaitha Nuclear Research Center, 11 mile) south-east of Baghdad. It was a 40 MW light-water nuclear materials testing reactor . In 1981, Israeli aircraft bombed the facility, in order to prevent the country from using the reactor for creation of nuclear weapons. Saddam's regime was notorious for its human rights abuses with the most large-scale and systematic being the Al-Anfal campaign, a genocidal campaign that targeted the Kurdish population in Iraq. The campaign led by Saddam Hussein's military commander and first cousin, Ali Hassan al-Majid, led to the killing of approximately 182,000 Kurdish civilians.The Anfal campaign began in 1986 and lasted until 1989 and included a series of military operations, abductions, transfers and internal displacements, executions, and chemical weapons use. Attacks were launched against approximately 3000 to 4000 Kurdish villages in areas of northern Iraq and forcibly displaced hundreds of thousands among the country's Kurdish population. The most infamous chemical attack was on the Kurdish town of Halabja, which al-Majid tried to justify as a punishment for elements of Kurdish support of Iran.</Notes>
+    </type>
+
+<type> M74
+    <name>M74</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1974</Date>
+    <Frequency> Frequency:  Uncommon/Rare</Frequency>
+    <Country>Country:  Iraq</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IR-001</Refrence>
+    <Ref>IR-001</Ref>
+    <pic>../Images/IR-001.jpg</pic>
+    <price>Price:  $40</price>
+    <Notes>Notes:  The M74 is a licensed copy of the German Karetta style mask, and its appearance is nearly identical. The M74 was later updated to incorporate a drinking device (see below).</Notes>
+</type>
+
+<type> M85
+    <name>M85</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1985</Date>
+    <Frequency> Frequency:  Uncommon/Rare</Frequency>
+    <Country>Country:  Iraq</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IR-002</Refrence>
+    <Ref>IR-002</Ref>
+    <pic>../Images/IR-002.jpg</pic>
+    <price>Price:  $40</price>
+    <Notes>Notes:  The Iraqi M85 is basically identical to the above M74, however the M85 had a drinking device incorporated that could be attached to a canteen via a rubber tube.</Notes>
+</type>             </masks>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks>
+<type> countriesPoland
+        <name>Poland </name>
+        <Translation>Republic of Poland</Translation>
+        <Aliases>  n/a </Aliases> 
+        <Date>Date for Masks: 1920s - 1990s </Date>
+        <Frequency>  Rare </Frequency>
+        <Country>Capital: Warsaw </Country>
+        <Function> Military/Civilian/Industrial </Function>
+        <Refrence> PO-???</Refrence>
+        <Ref> PO </Ref>
+        <pic>https://dl.dropbox.com/u/14570796/Images/flagPoland.jpg</pic>
+        <price>Currency: Złoty</price>
+            <Notes> During World War I, all the Allies agreed on the reconstitution of Poland that United States President Woodrow Wilson proclaimed in Point 13 of his Fourteen Points. Shortly after the armistice with Germany in November 1918, Poland regained its independence as the Second Polish Republic . It reaffirmed its independence after a series of military conflicts, the most notable being the Polish–Soviet War  when Poland inflicted a crushing defeat on the Red Army at the Battle of Warsaw, an event which is considered to have ultimately halted the advance of Communism into Europe and forced Lenin to rethink his objective of achieving global socialism. Nowadays the event is often referred to as the 'Miracle at the Vistula'.During this period, Poland successfully managed to fuse the territories of the three former partitioning powers into a cohesive nation state. Railways were restructured to direct traffic towards Warsaw instead of the former imperial capitals, a new network of national roads was gradually built up and a major seaport was opened on the Baltic Coast, so as to allow Polish exports and imports to bypass the politically charged Free City of Gdańsk. The Sanacja movement controlled Poland until the start of World War II in 1939, when Nazi Germany invaded on 1 September and the Soviet invasion of Poland followed by breaking the Soviet–Polish Non-Aggression Pact on 17 September. As agreed in the Molotov–Ribbentrop Pact, Poland was split into two zones, one occupied by Germany while the eastern provinces fell under the control of the Soviet Union. At the insistence of Joseph Stalin, the Yalta Conference sanctioned the formation of a new Polish provisional and pro-Communist coalition government in Moscow, which ignored the Polish government-in-exile based in London. Upon achieving victory in 1945, the occupying Soviet authorities organised an election which constituted nothing more than a sham and was ultimately used to claim the 'legitimacy' of Soviet hegemony over Polish affairs. The Soviet Union instituted a new communist government in Poland, analogous to much of the rest of the Eastern Bloc.  Military alignment within the Warsaw Pact throughout the Cold War came about as a direct result of this change in Poland's political culture and in Western eyes came to characterise the fully-fledged integration of Poland into the brotherhood of communist nations. The People's Republic of Poland was officially proclaimed in 1952.</Notes>
+    </type>
+    
+    
+<type> RSc
+    <name>RSc</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1920s/1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> PO-001</Refrence>
+    <Ref>PO-001</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-001.jpg</pic>
+    <price>  $145</price>
+    <Notes>  The Polish RSc Gas mask is an early mask based on France's ARS design. The mask even came in a similar metal carrying canister. The RSc may have actually been manufactured by S.E.C.M.P. in France and exported to Poland.</Notes>
+</type>
+
+<type> WZ. 32
+    <name>WZ. 32</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-002</Refrence>
+    <Ref>PO-002</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-002.jpg</pic>
+    <price>? $200+</price>
+    <Notes>  The Polish WZ. 32 is a unique mask which was issued with both a long breathing hose and also with a filter canister attached directly to the face piece (see below). The hose tube version used a large heavy-weight filter canister and was carried in a sturdy canvas bag.</Notes>
+</type>
+
+<type> WZ. 32
+    <name>WZ. 32</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-003</Refrence>
+    <Ref>PO-003</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-003.jpg</pic>
+    <price>  $60 </price>
+    <Notes>  This version of the WZ. 32 is basically identical to the above version but was issued with a filter to attached directly to the face piece.</Notes>
+</type>
+
+<type> C2
+    <name>C2</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-004</Refrence>
+    <Ref>PO-004</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-004.jpg</pic>
+    <price>  $120</price>
+    <Notes>  The Polish C2 Gas Mask is very similar in design to the WZ. 32, but used a much larger and bulkier design. The C2 was carried in a large metal canister and is fairly rare today.</Notes>
+</type>
+
+<type> M2
+    <name>M2</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian</Function>
+    <Refrence> PO-022</Refrence>
+    <Ref>PO-022</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-022.jpg</pic>
+    <price>  $190</price>
+    <Notes>  This early Polish mask was most likely modeled after the Soviet GP-4 (RU-013). The M2 may have also been used with a filter attached directly to the face piece.</Notes>
+</type>
+
+<type> ML
+    <name>ML</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. early/mid 1950s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian</Function>
+    <Refrence> PO-020</Refrence>
+    <Ref>PO-020</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-020.jpg</pic>
+    <price>  $155</price>
+    <Notes>  The Polish ML is another mask most likely designed after the Soviet GP-4 (RU-013). It is possible that the ML was an updated version of the M2 (above).</Notes>
+</type>
+
+<type> ML
+    <name>ML</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1950s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian</Function>
+    <Refrence> PO-021</Refrence>
+    <Ref>PO-021</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-021.jpg</pic>
+    <price>  $115</price>
+    <Notes>  This version of the Polish ML is an updated version of the above mask. The face piece was slightly altered as was the head harness configuration. This version also used a longer breathing hose.</Notes>
+</type>
+
+<type> OM-14
+    <name>OM-14</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-027</Refrence>
+    <Ref>PO-027</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-027.jpg</pic>
+    <price>  $95 </price>
+    <Notes>  This early version of the Polish OM-14 was clearly modeled after the Soviet SM-1 helmet mask (RU-006). The mask nearly identical in every way, as is the filter canister and carrier. These early versions date from the 1950s and are quite rare today.</Notes>
+</type>
+
+<type> OM-14
+    <name>OM-14</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1950s/early 1960s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-028</Refrence>
+    <Ref>PO-028</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-028.jpg</pic>
+    <price>  $100</price>
+    <Notes>  This version of the OM-14 is another early type of "helmet mask" again based on Soviet designs. This version dates from the late 1950s/early 1960s and again is nearly identical to the Soviet masks of the same time period.</Notes>
+</type>
+
+<type> GSP
+    <name>GSP</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1940s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian/Industrial</Function>
+    <Refrence> PO-015</Refrence>
+    <Ref>PO-015</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-015.jpg</pic>
+    <price>? $200+</price>
+    <Notes>  This strange Polish mask was designed for use as a mining mask. It featured a single glass visor with a 'wiper' mechanism incorporated to allow the wearer to easily remove condensation while wearing the mask. The example pictured at right is missing the filter unit and hose tube.</Notes>
+</type>
+
+<type> GSP-M
+    <name>GSP-M</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1940s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian/Industrial</Function>
+    <Refrence> PO-023</Refrence>
+    <Ref>PO-023</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-023.jpg</pic>
+    <price>? $200+</price>
+    <Notes>  This strange Polish mask was designed for use as a mining mask. It featured a single glass visor with a 'wiper' mechanism incorporated to allow the wearer to easily remove condensation while wearing the mask. The example pictured at right is very similar to the above version, but had an exhale valve incorporated on the left side of the face piece.</Notes>
+</type>
+
+<type> OM14
+    <name>OM14</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-005</Refrence>
+    <Ref>PO-005</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-005.jpg</pic>
+    <price>? $75+</price>
+    <Notes>  The OM14 is a Polish copy of the Soviet ShM "helmet style" gas mask. For the most part, it is identical looking when compared to the Soviet version. However, the Polish versions used an unpainted, shiny alloy for the metal parts of the mask, whereas the Soviet types (and most of the other Communist Bloc versions) used green painted metal.</Notes>
+</type>
+
+<type> MUA
+    <name>MUA</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Poland
+</Country>
+    <Function>  Military</Function>
+    <Refrence> PO-006</Refrence>
+    <Ref>PO-006</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-006.jpg</pic>
+    <price>? $75+</price>
+    <Notes>  The Polish MUA is another mask based on the Soviet ShM style, and is basically identical to the OM14 mask above. However, the MUA mask used a small voice amplifier in the center of the face piece. It might also be noted that the MUA came in two versions, one with a small dark colored voice amplifier (at right) and one with a shiny metal type voice amplifier (below).</Notes>
+</type>
+
+<type> MUA (2nd Type)
+    <name>MUA (2nd Type)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-007</Refrence>
+    <Ref>PO-007</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-007.jpg</pic>
+    <price>? $75+</price>
+    <Notes>  The Polish MUA is another mask based on the Soviet ShM style, and is basically identical to the OM14 mask above. However, the MUA mask used a small voice amplifier in the center of the face piece. It might also be noted that the MUA came in two versions, one with a small dark colored voice amplifier (above) and one with a shiny metal type voice amplifier (at right).</Notes>
+</type>
+
+<type> MUA (Radio Operator Type)
+    <name>MUA (Radio Operator Type)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-019</Refrence>
+    <Ref>PO-019</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-019.jpg</pic>
+    <price>? $75+</price>
+    <Notes>  This version of the MUA came with a larger voice amplifier. This was most likely a feature used by radio operators and other soldiers in need of better communication capabilities while wearing a gas mask.</Notes>
+</type>
+
+<type> SR1
+    <name>SR1</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Military</Function>
+    <Refrence> PO-008</Refrence>
+    <Ref>PO-008</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-008.jpg</pic>
+    <price>  $125</price>
+    <Notes>  The Polish SR1 is the head wound patient version of the ShM. This mask was also derived from a very similar Soviet head wound mask. The mask is more or less just an OM14 gas mask with an extended hood piece and pad that was strapped and tied around the wearers head. This method was most likely designed to take pressure off the wounded soldier's head and neck while allowing first aid personnel to easily fit the mask on the patient's head.</Notes>
+</type>
+
+<type> MP-6
+    <name>MP-6</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. mid 1970s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> PO-024</Refrence>
+    <Ref>PO-024</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-024.jpg</pic>
+    <price>? $75+</price>
+    <Notes>  The Polish MP-6 is another of the many Polish masks to use the "helmet mask" design, however this mask used a different type of inlet/outlet assembly very similar to the early M2 (PO-022).</Notes>
+</type>
+
+<type> MK-221
+    <name>MK-221</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. mid 1970s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian</Function>
+    <Refrence> PO-026</Refrence>
+    <Ref>PO-026</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-026.jpg</pic>
+    <price>  $75 </price>
+    <Notes>  The Polish MK-221 is another of the many Polish masks to use the Soviet "helmet" design. However, this mask used a plastic inlet/outlet assembly very similar to the type used with the MC1 civilian gas mask (PO-009). The version pictured to the right used a small filter canister attached directly to the face piece.</Notes>
+</type>
+
+<type> MK-221
+    <name>MK-221</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. mid 1970s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian</Function>
+    <Refrence> PO-025</Refrence>
+    <Ref>PO-025</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-025.jpg</pic>
+    <price>  $70 </price>
+    <Notes>  The Polish MK-221 is another of the many Polish masks to use the Soviet "helmet" design. However, this mask used a plastic inlet/outlet assembly very similar to the type used with the MC1 civilian gas mask (below). The version pictured to the right used a long breathing hose and tall EO-14 type filter canister.</Notes>
+</type>
+
+<type> MC1
+    <name>MC1</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s/1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> PO-009</Refrence>
+    <Ref>PO-009</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-009.jpg</pic>
+    <price>  $35 </price>
+    <Notes>  The Polish MC-1 was a simply designed civilian mask very similar to the Czech. CM-3. Some versions of this mask may have also been used by the military. A 40mm NATO thread filter canister was attached directly to the face piece with an exhale valve positioned directly above it. Most early versions used a rubber head harness while some later versions used a fabric/elastic blended harness for better comfort and fit. The MC1 is fairly common on the surplus market and can usually be found in complete un-issued condition.</Notes>
+</type>
+
+<type> MC1 (new version)
+    <name>MC1 (new version)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s/1970s </Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Poland </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> PO-014</Refrence>
+    <Ref>PO-014</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-014.jpg</pic>
+    <price>  $50</price>
+    <Notes>  This version of the Polish MC-1 is an updated version made of gray rubber. The overall construction of the mask remained basically the same, as did the size and shape of the filter issued with the mask. There were however a few small but noticeable changes made to the face piece mold. In addition, the head harness was made from elastic straps instead of all rubber, making for a more comfortable fit.</Notes>
+</type>
+
+<type> MP-4
+    <name>MP-4</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Poland</Country>
+    <Function>  Military</Function>
+    <Refrence> PO-010</Refrence>
+    <Ref>PO-010</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-010.jpg</pic>
+    <price>  $60 </price>
+    <Notes>  The Polish MP-4 is direct copy of the US M17 series gas mask. It used a similar set of "pork-chop" shaped filter elements that were housed in bilateral cheek pockets and a similar exhale valve/speech diaphragm assembly. The MP-4 went through several updates (listed below) keeping pace with the US versions of the M17.</Notes>
+</type>
+
+<type> MP-4M
+    <name>MP-4M</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Poland</Country>
+    <Function>  Military</Function>
+    <Refrence> PO-011</Refrence>
+    <Ref>PO-011</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-011.jpg</pic>
+    <price>  $55 </price>
+    <Notes>  The MP-4M is nothing more than an updated version of the earlier MP-4 gas mask. The speech diaphragm was changed as was the color of the mask overall and some of the components. The MP-4M was later updated again to integrate a drinking device (see below).</Notes>
+</type>
+
+<type> MP-4B
+    <name>MP-4B</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Poland</Country>
+    <Function>  Military</Function>
+    <Refrence> PO-012</Refrence>
+    <Ref>PO-012</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-012.jpg</pic>
+    <price> $50</price>
+    <Notes>  The MP-4B is basically identical to the MP-4M but had a drinking device incorporated which allowed the wearer to attach a special canteen. The drinking port was in the chin area of the mask, unlike the US M17A1/A2 series where the drinking port entered on the front near the voice-mitter assembly.</Notes>
+</type>
+
+<type> MP5
+    <name>MP5</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Poland
+</Country>
+    <Function>  Military</Function>
+    <Refrence> PO-013</Refrence>
+    <Ref>PO-013</Ref>
+    <pic>https://dl.dropbox.com/u/14570796/Images/PO-013.jpg</pic>
+    <price>? $75+</price>
+    <Notes>  The MP5 is the Polish military's modern NBC respirator. It is very similar in design to the French ARFA respirator which it was derived from under license.</Notes>
+</type>             </masks>
