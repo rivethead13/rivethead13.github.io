@@ -1,30 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?> 
- <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks><type> countriesGreece
-        <name>Greece </name>
-        <Translation>Hellenic Republic</Translation>
-        <Aliases>  n/a</Aliases>
-        <Date> Date for Masks: 1937 </Date>
-        <Frequency>  Scarce </Frequency>
-        <Country>Capital: Athens </Country>
-        <Function> Military </Function>
-        <Refrence> GR-???</Refrence>
-        <Ref> GR </Ref>
-        <pic>https://dl.dropbox.com/u/14570796/Images/flagGreece.jpg</pic>
-        <price>Currency: Euro</price>
-        <Notes> In the aftermath of WWI, Greece fought against Turkish nationalists led by Mustafa Kemal, a war which resulted in a massive population exchange between the two countries under the Treaty of Lausanne.[ According to various sources, several hundred thousand Pontic Greeks died during this period. Instability and successive coups d'état marked the following era, which was overshadowed by the massive task of incorporating 1.5 million Greek refugees from Turkey into Greek society. The Greek population in Istanbul dropped from 300,000 at the turn of the century to around 3,000 in the city today.  On 28 October 1940 Fascist Italy demanded the surrender of Greece, but Greek dictator Ioannis Metaxas refused and in the following Greco-Italian War, Greece repelled Italian forces into Albania, giving the Allies their first victory over Axis forces on land. The country would eventually fall to urgently dispatched German forces during the Battle of Greece. The German occupiers nevertheless met serious challenges from the Greek Resistance. Over 100,000 civilians died from starvation during the winter of 1941–42, and the great majority of Greek Jews were deported to Nazi extermination camps. After liberation, Greece experienced a bitter civil war between communist and anticommunist forces, which led to economic devastation and severe social tensions between rightists and largely communist leftists for the next 30 years. The next 20 years were characterized by marginalisation of the left in the political and social spheres but also by rapid economic growth, propelled in part by the Marshall Plan.  </Notes>
-    </type>
-
-<type> Unknown
-    <name>Unknown</name>
-    <Translation> </Translation>
-    <Aliases>   n/a</Aliases>
-    <Date>   c. 1937</Date>
-    <Frequency> Scarce</Frequency>
-    <Country>  Greece</Country>
-    <Function>  Military</Function>
-    <Refrence> GR-001</Refrence>
-    <Ref>GR-001</Ref>
-    <pic>https://dl.dropbox.com/u/14570796/Images/GR-001.jpg</pic>
-    <price>  $275</price>
-    <Notes>  This German made mask was apparently exported to several European countries during the WWII era. The face piece is for the most part identical to the German GM-30, but the corrugated breathing hose is more like those used with the early German GM-24 masks. The filter canister and carrier are also very similar to the GM-24. The specimen pictured to the right was apparently exported to Greece, but this is not certain. These masks may also have been issued to Bulgaria and possibly a few other countries throughout Europe.</Notes>
-</type>             </masks>
