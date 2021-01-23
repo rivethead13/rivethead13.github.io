@@ -1,45 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?> 
- <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks><type> countriesLatvia
-        <name>Latvia </name>
-        <Translation>Repbulic of Latvia</Translation>
-        <Aliases>  n/a</Aliases>
-        <Date> Date for Masks: 1940s </Date>
-        <Frequency>  Rare </Frequency>
-        <Country>Capital: Riga </Country>
-        <Function> Military/Civilian </Function>
-        <Refrence> LA-???</Refrence>
-        <Ref> LA </Ref>
-        <pic>https://rivethead13.github.io/Images/flagLatvia.jpg</pic>
-        <price>Currency: lats</price>
-        <Notes> Latvia , officially the Republic of Latvia, is a country in the Baltic region of Northern Europe. It is bordered to the north by Estonia, to the south by Lithuania, to the east by the Russian Federation, and to the southeast by Belarus . The Latvians are Baltic people culturally related to the Estonians and Lithuanians, with the Latvian language having many similarities with Lithuanian, but not with the Estonian language. Today the Latvian and Lithuanian languages are the only surviving members of the Baltic languages of the Indo-European family. The modern name of Latvia is thought to originate from the ancient Latvian name Latvji, which, like the name of Lithuania, may have originated from the river named Latuva. The country is also the home of a large Russian minority of whom many are non-citizens. </Notes>
-    </type>
-    
-<type> Unknown
-    <name>Unknown</name>
-    <Translation> </Translation>
-    <Aliases>   Latvian Civilian Gas Mask</Aliases>
-    <Date>   c. 1940</Date>
-    <Frequency> Rare</Frequency>
-    <Country>  Latvia</Country>
-    <Function>  Civilian</Function>
-    <Refrence> LA-001</Refrence>
-    <Ref>LA-001</Ref>
-    <pic>https://rivethead13.github.io/Images/LA-001.jpg</pic>
-    <price>  $120</price>
-    <Notes>  This WWII civilian gas mask was made in Riga, Latvia by VEF (Valsts Elektrotechniska Fabrika). It is very similar to the German VM37 and was most likely based on its design. Like the VM37, this mask used a full 'helmet' type face piece with a rubber adjustment strap along the back. A large rubber flapper type exhale valve was also incorporated in-between and just below the two glass eye pieces. The Latvian Gāzmaska is somewhat rare on the collectors market but occasionally it can be found in mint condition in its original carton.</Notes>
-</type>
-
-<type> Unknown
-    <name>Unknown</name>
-    <Translation> </Translation>
-    <Aliases>   Latvian Army Gas Mask</Aliases>
-    <Date>   c. 1940s</Date>
-    <Frequency> Rare/Scarce</Frequency>
-    <Country>  Latvia</Country>
-    <Function>  Military</Function>
-    <Refrence> LA-002</Refrence>
-    <Ref>LA-002</Ref>
-    <pic>https://rivethead13.github.io/Images/LA-002.jpg</pic>
-    <price>? $150+</price>
-    <Notes>  This WWII Latvian gas mask was also manufactured by VEF (Valsts Elektrotechniska Fabrika)and was used by the Latvian army. Like the above mask, the design was most likely modeled after similar German masks from the same time period.</Notes>
-</type>        </masks>
