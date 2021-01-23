@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks><type> countriesCzech
+        <name>Czech Republic. </name>
+        <Translation>Czech Republic</Translation>
+        <Aliases>  Czechoslovakia</Aliases>
+        <Date> Date for Masks: 1933 - 1990s </Date>
+        <Frequency>  Uncommon </Frequency>
+        <Country>Capital: Prague </Country>
+        <Function> Military/Civilian/Industrial </Function>
+        <Refrence> CZ-???</Refrence>
+        <Ref> CZ </Ref>
+        <pic>https://rivethead13.github.io/Images/flagCzech.jpg</pic>
+        <price>Currency: koruna</price>
+        <Notes> . The independent Republic of Czechoslovakia was formed in 1918, following the collapse of the Austro-Hungarian empire after World War I. After the Munich Agreement (signed by Nazi Germany, France, Britain and Italy), Polish annexation of Zaolzie and German occupation of Czechoslovakia and the consequent disillusion with the Western response and gratitude for the liberation of the major portion of Czechoslovakia by the Red Army, the Communist party won plurality (38%) in the 1946 elections. In a 1948 coup d'état, Czechoslovakia became a communist-ruled state. In 1968, the increasing dissatisfaction culminated in attempts to reform the communist regime. The events, known as the Prague Spring of 1968, ended with an invasion by the armies of the Warsaw Pact countries (with the exception of Romania); the troops remained in the country until the 1989 Velvet Revolution, when the communist regime collapsed. On 1 January 1993, Czechoslovakia peacefully dissolved into its constituent states, the Czech Republic and Slovakia.</Notes>
+    </type>
+    
+<type> Vz.33
+    <name>Vz.33</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1933</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military</Function>
+    <Refrence> CZ-001</Refrence>
+    <Ref>CZ-001</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-001.jpg</pic>
+    <price>? $100</price>
+    <Notes>  The Vz.33 is a Czech. Army gas mask made of fabricized rubber. There were several variants made which may have been used by civilian workers for industrial applications.</Notes>
+</type>
+
+<type> Vz.33 (with Typ112 CO Filter)
+    <name>Vz.33 (with Typ112 CO Filter)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1933</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military/Civilian/Industrial</Function>
+    <Refrence> CZ-002</Refrence>
+    <Ref>CZ-002</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-002.jpg</pic>
+    <price>? $100</price>
+    <Notes>  This variant of the Vz.33 came equipped with a Draeger Typ 112 CO filter and a long breathing tube. The face piece is identical to the above Vz.33.</Notes>
+</type>
+
+<type> Vz.35
+    <name>Vz.35</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1935</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military</Function>
+    <Refrence> CZ-003</Refrence>
+    <Ref>CZ-003</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-003.jpg</pic>
+    <price>  $45</price>
+    <Notes>  The Vz.35 is a common Czech, gas mask updated from the earlier Vz.33. Like the Vz.33 there were many variants of the Vz.35 made by different manufacturers. The most commonly found Vz.35 masks were made by FATRA.</Notes>
+</type>
+
+<type> Vz.35
+    <name>Vz.35</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1935</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military</Function>
+    <Refrence> CZ-004</Refrence>
+    <Ref>CZ-004</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-004.jpg</pic>
+    <price> $70</price>
+    <Notes>  This Vz.35 is basically identical to the above version but came equipped with a long breathing hose and a large filter canister. This version's inlet assembly is also slightly different, in that it is positioned in more of a downward angle as opposed to pointing away from the chin area.</Notes>
+</type>
+
+<type> Služebnĩ Maska Chema S
+    <name>Služebnĩ Maska Chema S</name>
+    <Translation> Service Mask Chema S</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1935</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> CZ-005</Refrence>
+    <Ref>CZ-005</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-005.jpg</pic>
+    <price>  $45</price>
+    <Notes>  The Czech. Chema S is very similar in appearance to the Vz.35. The only differences can be seen in the angle of the filter inlet assembly and some variation in paint color.</Notes>
+</type>
+
+<type> Služebnĩ Maska Chema S
+    <name>Služebnĩ Maska Chema S</name>
+    <Translation> Service Mask Chema S</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1935</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> CZ-006</Refrence>
+    <Ref>CZ-006</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-006.jpg</pic>
+    <price>  $80
+</price>
+    <Notes>  The Czech. Chema S is very similar in appearance to the Vz.35. The only differences can be seen in the angle of the filter inlet assembly and some variation in paint color.</Notes>
+</type>
+
+<type> Maska Chema-LPS
+    <name>Maska Chema-LPS</name>
+    <Translation> Chemical Mask-LPS</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Civilian</Function>
+    <Refrence> CZ-007</Refrence>
+    <Ref>CZ-007</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-007.jpg</pic>
+    <price>Price $75</price>
+    <Notes>  The LPS gas mask was a civilian mask used in Czechoslovakia during the WWII era. Like most WWII era gas masks, there are several different versions. This specimen was made of a light green rubber and came with a tall filter canister.</Notes>
+</type>
+
+<type> Maska Chema-LPS
+    <name>Maska Chema-LPS</name>
+    <Translation> Chemical Mask-LPS</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Civilian</Function>
+    <Refrence> CZ-008</Refrence>
+    <Ref>CZ-008</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-008.jpg</pic>
+    <price>  $75</price>
+    <Notes>  The LPS gas mask was a civilian mask used in Czechoslovakia during the WWII era. Like most WWII era gas masks, there are several different versions. This specimen was made of a greenish gray rubber and had a slightly different inlet/outlet assembly and painted metal parts.</Notes>
+</type>
+
+<type> Maska Chema-LPS
+    <name>Maska Chema-LPS</name>
+    <Translation> Chemical Mask-LPS</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Civilian</Function>
+    <Refrence> CZ-009</Refrence>
+    <Ref>CZ-009</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-009.jpg</pic>
+    <price>  $65</price>
+    <Notes>  The LPS gas mask was a civilian mask used in Czechoslovakia during the WWII era. Like most WWII era gas masks, there are several different versions. This specimen is almost identical to the above version, but was made from a black rubber. The filter canister is also slightly different.</Notes>
+</type>
+
+<type> F.M.-1a
+    <name>F.M.-1a</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CZ-010</Refrence>
+    <Ref>CZ-010</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-010.jpg</pic>
+    <price>  $45</price>
+    <Notes>  The Fatra F.M. series gas masks were manufactured in many different styles and variations throughout the war years. The differences between the masks are usually slight, and may have been due to material availability and/or function modifications. The F.M.-1a is pictured to the right. It used a metal inlet/outlet assembly, were later versions typically used Bakelite parts. The F.M. series masks were typically issued in tall metal canisters with a fabric ribbon for proper slinging.</Notes>
+</type>
+
+<type> F.M.-1b
+    <name>F.M.-1b</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CZ-011</Refrence>
+    <Ref>CZ-011</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-011.jpg</pic>
+    <price>  $35</price>
+    <Notes>  The Fatra F.M. series gas masks were manufactured in many different styles and variations throughout the war years. The differences between the masks are usually slight, and may have been due to material availability and/or function modifications. The F.M.-1b is pictured to the right. It used a Bakelite inlet/outlet assembly, were earlier versions used metal parts (see F.M.-1a above). The F.M. series masks were typically issued in tall metal canisters with a fabric ribbon for proper slinging.</Notes>
+</type>
+
+<type> F.M.-3a
+    <name>F.M.-3a</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CZ-012</Refrence>
+    <Ref>CZ-012</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-012.jpg</pic>
+    <price> $30</price>
+    <Notes>  The Fatra F.M. series gas masks were manufactured in many different styles and variations throughout the war years. The differences between the masks are usually slight, and may have been due to material availability and/or function modifications. The F.M.-3 series was most likely an updated version of the F.M.-1 series. The face piece shape was changed overall, using less rubber and a different and less rugged head harness. The F.M.-3a is pictured to the right. Like the later F.M.-1 masks, it used a Bakelite inlet/outlet assembly. The F.M.-3 series masks were exported to several different European countries (most notably, France).</Notes>
+    </type>
+
+<type> F.M.-3c
+    <name>F.M.-3c</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CZ-013</Refrence>
+    <Ref>CZ-013</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-013.jpg</pic>
+    <price>  $20</price>
+    <Notes>  The Fatra F.M. series gas masks were manufactured in many different styles and variations throughout the war years. The differences between the masks are usually slight, and may have been due to material availability and/or function modifications. The F.M.-3 series was most likely an updated version of the F.M.-1 series. The F.M.-3c is pictured to the right. Like the later F.M.-1 masks, it used a Bakelite inlet/outlet assembly. This version however has unpainted metal parts and a slightly different face piece mold. Also, the neckband is made from a rolled string-like fabric instead of the more typical flat, fabric band.</Notes>
+</type>
+
+<type> F.M.-3c (French Vernon version)
+    <name>F.M.-3c (French Vernon version)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CZ-014</Refrence>
+    <Ref>CZ-014</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-014.jpg</pic>
+    <price>  $40</price>
+    <Notes>  The Fatra F.M. series gas masks were manufactured in many different styles and variations throughout the war years. The differences between the masks are usually slight, and may have been due to material availability and/or function modifications. The French Vernon F.M.-3c is pictured to the right. This mask was a copy made in France that used a black rubber face piece and a rubber head harness. The rubber around the head harness attachment points was also reinforced. This version, like the above version, used unpainted metal parts and a Bakelite inlet/outlet assembly.</Notes>
+</type>
+
+<type> F.M.-3d
+    <name>F.M.-3d</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CZ-015</Refrence>
+    <Ref>CZ-015</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-015.jpg</pic>
+    <price>  $15</price>
+    <Notes>  The Fatra F.M. series gas masks were manufactured in many different styles and variations throughout the war years. The differences between the masks are usually slight, and may have been due to material availability and/or function modifications. The F.M.-3 series was most likely an updated version of the F.M.-1 series. The F.M.-3d is pictured to the right. This version is for the most part identical to the above version, however the face piece mold is slightly different were the head harness is attached. Also, the neckband is made from a rolled string-like fabric instead of the more typical flat, fabric band. The Bakelite filter inlet housing also slightly different.</Notes>
+</type>
+
+<type> F.M.-4a
+    <name>F.M.-4a</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. late 1930s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech Republic</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CZ-016</Refrence>
+    <Ref>CZ-016</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-016.jpg</pic>
+    <price>  $40</price>
+    <Notes>  The Fatra F.M. series gas masks were manufactured in many different styles and variations throughout the war years. The differences between the masks are usually slight, and may have been due to material availability and/or function modifications. The F.M.-4a is pictured to the right. This type marked another major change for the F.M. series masks. It is possible that the F.M.-4 masks were designed for use by children, as the face piece size is considerably smaller than the F.M.-3 series.</Notes>
+</type>
+
+<type> Ochranná Maska M-52
+    <name>Ochranná Maska M-52</name>
+    <Translation> Protective Mask M-52</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s/1960s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech Republic/USSR</Country>
+    <Function>  Military</Function>
+    <Refrence> CZ-017</Refrence>
+    <Ref>CZ-017</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-017.jpg</pic>
+    <price>? $100+</price>
+    <Notes>  During the Warsaw Pact years, the Soviet ShM (helmet) style gas mask was used by several different eastern European countries, including Czechoslovakia. For the most part, the Czech. version was very similar to the Russian types, but this version used a special rubber cup which covered the inlet/outlet assembly. It is unknown what this feature was used for, but it is possible that it offered extra protection where a leak could occur. The corrugated rubber hose and the tall filter canister are also very similar to the Soviet models.</Notes>
+</type>
+
+<type> SM-1
+    <name>SM-1</name>
+    <Translation> n/a</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech Republic/USSR</Country>
+    <Function>  Military</Function>
+    <Refrence> CZ-025</Refrence>
+    <Ref>CZ-025</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-025.jpg</pic>
+    <price>>? $50+</price>
+    <Notes>  This early Czech version of the Soviet SM-1 is very close in general appearance to it's Russian counterpart, however the breathing tube used Bakelite connector parts instead of light weight metal like the M-52 above. The example pictured to the right also features rare connectors on the inside of the mask for corrective optical inserts.</Notes>
+</type>
+
+<type> Detská Maska DM-1
+    <name>Detská Maska DM-1</name>
+    <Translation> Children's Mask DM-1</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech. Republic</Country>
+    <Function>  Civilian</Function>
+    <Refrence> CZ-018</Refrence>
+    <Ref>CZ-018</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-018.jpg</pic>
+    <price>  $55</price>
+    <Notes>  The Czech. DM-1 is a small children's mask made of bright orange rubber. This was most likely a design feature used to make children stand out in when wearing the mask.</Notes>
+</type>
+
+<type> Ochranná Maska CM-3
+    <name>Ochranná Maska CM-3</name>
+    <Translation> Protective Mask CM-3</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech. Republic</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CZ-019</Refrence>
+    <Ref>CZ-019</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-019.jpg</pic>
+    <price>  $60</price>
+    <Notes>  This Czech, mask is very similar to the Polish MC-1, which was most likely a licensed copy of the</Notes>
+</type>
+
+<type> Ochranná Maska M-10
+    <name>Ochranná Maska M-10</name>
+    <Translation> Protective Mask M-10</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Czech. Republic</Country>
+    <Function>  Military</Function>
+    <Refrence> CZ-020</Refrence>
+    <Ref>CZ-020</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-020.jpg</pic>
+    <price>  $75</price>
+    <Notes>  The M-10 is a copy of the US M17 manufactured by Gumárny Zubrí (Zubrí Rubber). Like the M17, the M-10 uses two internally housed "pork chop" shaped filter elements on either side of the mask. Also like the US M17, the M-10 was issued with a protective outer hood and eye lens outserts. The</Notes>
+</type>
+
+<type> Ochranná Maska M-10 M
+    <name>Ochranná Maska M-10 M</name>
+    <Translation> Protective Mask M-10 M</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1980s</Date>
+    <Frequency> Common</Frequency>
+    <Country>  Czech. Republic</Country>
+    <Function>  Military</Function>
+    <Refrence> CZ-021</Refrence>
+    <Ref>CZ-021</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-021.jpg</pic>
+    <price>  $25
+</price>
+    <Notes>  The M-10 M is an updated version of the M-10. This mask is also a very close copy of the US M17A1/A2 series. Like its US counterpart, the M-10 M used dual internal filter elements and a special canteen which could be attached to the drinking device. The M-10 M also came with a protective outer hood which covered the whole head and neck. The M-10 M is quite common and can usually be found in complete unissued condition.</Notes>
+</type>
+
+<type> Ochranná Maska CM-4
+    <name>Ochranná Maska CM-4</name>
+    <Translation> Protective Mask CM-4</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Czech. Republic</Country>
+    <Function>  Civilian</Function>
+    <Refrence> CZ-022</Refrence>
+    <Ref>CZ-022</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-022.jpg</pic>
+    <price>  $40</price>
+    <Notes>  The CM-4 is a modern civilian mask used in the Czech. Republic. The mask uses a simple but solid design making it ideal for civilian use. There is also a variant which incorporates a drinking device designated the CM-4M. Like the M10 series, the CM-4 was manufactured by Gumárny Zubrí (Zubrí Rubber).</Notes>
+</type>
+
+<type> Ochranná Maska OM-90
+    <name>Ochranná Maska OM-90</name>
+    <Translation> Protective Mask OM-90</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Czech. Republic</Country>
+    <Function>  Military</Function>
+    <Refrence> CZ-023</Refrence>
+    <Ref>CZ-023</Ref>
+    <pic>https://rivethead13.github.io/Images/CZ-023.jpg</pic>
+    <price> $240</price>
+    <Notes>  The OM-90 is the modern NBC respirator used by the Czech. armed forces. Like most modern NBC masks, the OM-90 offers all of the latest technological advancements such as a drinking tube, voice-mitter and the ability to attach the filter on either side of the mask. The OM-90 is made from brominated butyl rubber and manufactured by Gumárny Zubrí (Zubrí Rubber).</Notes>
+</type>             </masks>

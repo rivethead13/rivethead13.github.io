@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks>
+<type> countriesSwitzerland
+        <name>Switzerland </name>
+        <Translation>The Swiss Confederation</Translation>
+        <Aliases>   </Aliases>
+        <Date> Date for Masks: 1930s - 1990s </Date>
+        <Frequency>  Rare </Frequency>
+        <Country>Capital: Bern </Country>
+        <Function> Military/Civilian </Function>
+        <Refrence> SZ-???</Refrence>
+        <Ref> SZ </Ref>
+        <pic>https://rivethead13.github.io/Images/flagSwitzerland.jpg</pic>
+        <price>Currency: Swiss franc</price>    
+        <Notes> The Swiss Confederation has a long history of neutrality—it has not been in a state of war internationally since 1815—and did not join the United Nations until 2002. It pursues, however, an active foreign policy and is frequently involved in peace-building processes around the world. Switzerland is also the birthplace of the Red Cross and home to a large number of international organizations, including the second largest UN office, the World Trade Organization and the International Labour Organization. On the European level, it is a founding member of the European Free Trade Association and is part of the Schengen Area – although it is notably not a member of the European Union, nor the European Economic Area. Switzerland is one of the richest countries in the world by per capita gross domestic product, with a nominal per capita GDP of $69,838. In 2010, Switzerland had the highest wealth per adult of any country in the world (with $372,692 for each person). Switzerland also has one of the world's largest account balances as a percentage of GDP, only placing behind a few oil producing countries. Zurich and Geneva have respectively been ranked as the cities with the second and third highest quality of life in the world. In 2010 the World Economic Forum ranked Switzerland as the most competitive country in the world, while ranked by the European Union as Europe's most innovative country by far.</Notes>
+        </type>
+        
+<type> B-Mask
+    <name>B-Mask</name>
+    <Translation> </Translation>
+    <Aliases>   B-1</Aliases>
+    <Date>   c. 1930s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Civilian</Function>
+    <Refrence> SZ-001</Refrence>
+    <Ref>SZ-001</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-001.jpg</pic>
+    <price>  $145</price>
+    <Notes>  This early Swiss civilian gas mask uses a design similar to the German VM37. A 40mm thread filter canister is attached to the front of the face piece and an outlet is positioned on the left side. The mask was issued in a cardboard carton similar to the one used for the German VM37. The Swiss B-Mask can be found in new condition, but is quite rare on the collector's market.</Notes>
+</type>
+
+<type> GM-33
+    <name>GM-33</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Military</Function>
+    <Refrence> SZ-002</Refrence>
+    <Ref>SZ-002</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-002.jpg</pic>
+    <price>? $100+</price>
+    <Notes>  The Swiss GM-33 was the primary military gas mask of the Swiss Army during WWII. It features a long corrugated breathing tube attached to a heavyweight filter canister. The unit was carried in a canvas sack and worn at the wearer's side. The face piece design is very similar to the civilian C-Mask, with identical eye pieces and a similar head harness. The Swiss GM-33 can still be found today in excellent condition, but is getting more rare.</Notes>
+</type>
+
+<type> C-Mask
+    <name>C-Mask</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s/1940s</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Civilian</Function>
+    <Refrence> SZ-003</Refrence>
+    <Ref>SZ-003</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-003.jpg</pic>
+    <price>  $60</price>
+    <Notes>  The Swiss C-Mask is the most commonly found Swiss mask from the WWII era. It was issued in a tall metal canister and came with a 40mm thread filter canister. An outlet valve is positioned on the front of the mask and an adjustable elastic head harness is used for suspension. The mask's face piece was made of green rubber, but black and fabricized versions were also made and are much less common. The C-Mask coupled with a different filter was also issued to fire fighters.</Notes>
+</type>
+
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s/1940s</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Unknown</Function>
+    <Refrence> SZ-004</Refrence>
+    <Ref>SZ-004</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-004.jpg</pic>
+    <price>? $100</price>
+    <Notes>  This mask is quite similar in design to both the C-Mask and the GM-33. The mask's face piece was made of a fabricized rubber material like the GM-33 but was designed to accept a 40 mm filter canister directly to a threaded inlet assembly like the C-Mask. The mask is very rare and may be an experimental model design for lightweight infantry use.</Notes>
+</type>
+
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s/1960s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Unknown</Function>
+    <Refrence> SZ-005</Refrence>
+    <Ref>SZ-005</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-005.jpg</pic>
+    <price> $60</price>
+    <Notes>  This mask is almost identical to the C-Mask. It is most likely a post war mask used by civilians and possibly for industrial purposes and/or fire fighting. Unlike the green C-Mask, this mask was made of black rubber and the head harness used a slightly different configuration. While the C-Mask is fairly common, this mask seems to be quite rare.</Notes>
+</type>
+
+<type> Pferde-Gasmaske (Horse Gas Mask)
+    <name>Pferde-Gasmaske (Horse Gas Mask)</name>
+    <Translation> Horse Gas Mask</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1940s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Military</Function>
+    <Refrence> SZ-006</Refrence>
+    <Ref>SZ-006</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-006.jpg</pic>
+    <price>? $150+</price>
+    <Notes>  This interesting mask is made for horses. The mask was fitted over the horse's snout and the large filter canister was strapped to the horse's side. The whole unit could be carried in two separate sacks, and strapped to the horse tack. The Swiss WWII horse gas mask is quite rare today but can be found from time to time in mint un-issued condition.</Notes>
+</type>
+
+<type> SM-64
+    <name>SM-64</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1964</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Military</Function>
+    <Refrence> SZ-007</Refrence>
+    <Ref>SZ-007</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-007.jpg</pic>
+    <price>? $100+</price>
+    <Notes>  The SM-64 was most likely used for rescue service and uses a full 'helmet' type design. A rubber outlet valve was molded into the left side of the face piece and a special 40mm filter canister was used. This mask was also issued in pairs to facilitate two masks hooked up to a single breathing unit via two joined breathing tubes (see below). The SM-64 is fairly difficult to find on the surplus market.</Notes>
+</type>
+
+<type> SM-67
+    <name>SM-67</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1967</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Civilian</Function>
+    <Refrence> SZ-008</Refrence>
+    <Ref>SZ-008</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-008.jpg</pic>
+    <price>  $115</price>
+    <Notes>  The Swiss SM-67 is a civilian issue mask that was not made in significant numbers. It uses a simple design and a standard 40mm filter canister. An elastic head harness is used for suspension. There is an exhale valve but no inner mask. The SM-67 was carried in a gray snap-top satchel.</Notes>
+</type>
+
+<type> SM-74
+    <name>SM-74</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1974</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Military</Function>
+    <Refrence> SZ-009</Refrence>
+    <Ref>SZ-009</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-009.jpg</pic>
+    <price> $50</price>
+    <Notes>  The SM-74 was for a long time the standard Swiss mask used by the military. The mask uses a simple design with a 40mm thread filter canister. A five strap elastic head harness is used for suspension and an outlet valve is positioned on the front of the mask. The SM-74 is fairly common on the surplus market but is getting more difficult to find today.</Notes>
+</type>
+
+<type> SM-81
+    <name>SM-81</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1981</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Military</Function>
+    <Refrence> SZ-010</Refrence>
+    <Ref>SZ-010</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-010.jpg</pic>
+    <price>? $100+</price>
+    <Notes>  The Swiss SM-81 is a rare experimental mask that may have been designed for use inside tanks. The mask has a wider field of view compared to the SM-74. The 40mm filter unit is directed downward via a small plastic angle-tube. A standard 5 strap elastic head harness and circular exhale valve is present. The SM-81 is very rare today as few were likely made.</Notes>
+</type>
+
+<type> PM-31
+    <name>PM-31</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Prototype</Function>
+    <Refrence> SZ-011</Refrence>
+    <Ref>SZ-011</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-011.jpg</pic>
+    <price>  $300</price>
+    <Notes>  The Swiss PM-31 is a prototype mask designed by Huber &amp; Suhner that later evolved into the SM-90 NBC Protective Mask. Because the PM-31 is a test mask, there is no drinking tube and only a simple rubber head harness. Very few PM-31 masks were manufactured making them extremely rare today.</Notes>
+</type>
+
+<type> SM-90
+    <name>SM-90</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Military</Function>
+    <Refrence> SZ-012</Refrence>
+    <Ref>SZ-012</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-012.jpg</pic>
+    <price>  $225</price>
+    <Notes>  The SM-90 is the standard Swiss military mask used today. It is manufactured by Huber &amp; Suhner and features many modern updates including a drinking tube, voice amplifier and the ability to use corrective lens inserts. The mask also comes with an adjustable head net for extra comfort. The Swiss SM-90 is somewhat difficult to locate on the surplus market and is typically very expensive when found.</Notes>
+</type>
+
+<type> PM-33
+    <name>PM-33</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s</Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  Switzerland</Country>
+    <Function>  Prototype</Function>
+    <Refrence> SZ-013</Refrence>
+    <Ref>SZ-013</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-013.jpg</pic>
+    <price>? $100+</price>
+    <Notes>  The Swiss PM-33 is a prototype mask designed by Huber &amp; Suhner that later evolved into the SM-3 NBC Protective Mask. Because the PM-33 is a test mask, there is no drinking tube and only a simple rubber head harness. Very few PM-33 masks were manufactured making them extremely rare today.</Notes>
+</type>
+
+<type> SM-3
+    <name>SM-3</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Switzerland/Export</Country>
+    <Function>  Military/Police</Function>
+    <Refrence> SZ-014</Refrence>
+    <Ref>SZ-014</Ref>
+    <pic>https://rivethead13.github.io/Images/SZ-014.jpg</pic>
+    <price>? $150+</price>
+    <Notes>  The Swiss SM-3 is a newer export model made by Huber &amp; Suhner for use by military and police. The mask offers all the comforts and accessories of the SM-90, but also features the ability to attach a 40mm thread filter to either the left, right or front of the mask. The SM-3 is also quite difficult to find on the surplus market and can be very expensive when found.</Notes>
+</type>             </masks>

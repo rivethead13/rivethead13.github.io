@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks><type> countriesFrance
+        <name>France </name>
+        <Translation>French Republic</Translation>
+        <Aliases>  n/a </Aliases> 
+        <Date>Date for Masks: 1916 - 1960s </Date>
+        <Frequency>  Uncommon/Rare </Frequency>
+        <Country>Capital: Paris </Country>
+        <Function> Military/Civilian/Industrial </Function>
+        <Refrence> FR-???</Refrence>
+        <Ref> FR </Ref>
+        <pic>https://rivethead13.github.io/Images/flagFrance.jpg</pic>
+        <price>Currency: Euro</price>
+            <Notes> France was a member of the Triple Entente when World War I broke out. A small part of Northern France was occupied, but France and its allies eventually emerged victorious against the Central Powers, at a tremendous human and material cost: the first war left 1.4 million French soldiers dead. The interbellum phase was marked by a variety of social reforms introduced by the Popular Front government. Following the German Blitzkrieg campaign in World War II, metropolitan France was divided in an occupation zone in the north and Vichy France, a newly established authoritarian regime collaborating with Germany, in the south. The Allies and the French Resistance eventually emerged victorious from the Axis powers and French sovereignty was restored. The Fourth Republic was established after World War II and saw spectacular economic growth. France was one of the founding members of the NATO, which was the Western counterpart of the Warsaw Pact system of collective defence. Only months later, France faced a new conflict in Algeria. The debate over whether or not to keep control of Algeria, then home to over one million European settlers, wracked the country and nearly led to civil war. In 1958, the weak and unstable Fourth Republic gave way to the Fifth Republic, which contained a strengthened Presidency. In the latter role, Charles de Gaulle managed to keep the country together while taking steps to end the war. The Algerian War was concluded with peace negotiations in 1962 that led to Algerian independence. France granted independence progressively to its colonies, the last one being Vanuatu in 1980. A vestige of the colonial empire are the French overseas departments and territories that include French Guiana, Martinique and French Polynesia. France has been at the forefront of the European Union member states seeking to exploit the momentum of monetary union to create a more unified and capable European Union political, defence, and security apparatus.</Notes>
+    </type>
+    
+<type> Tampon T
+    <name>Tampon T</name>
+    <Translation>T- Pad </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1916 </Date>
+    <Frequency> Very Scarce</Frequency>
+    <Country>  France </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-001</Refrence>
+    <Ref>FR-001</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-001.jpg</pic>
+    <price>  $750</price>
+    <Notes>  The French Tampon T was one of the first masks used by the French in an attempt to defend against German chlorine gas clouds. The Tampon T was usually issued with a separate pair of goggles (lunettes) to protect the wearer's eyes (not pictured). The mask was made of several layers of impregnated fabric. Intact Tampon T masks are very scarce today in any condition.</Notes>
+</type>
+
+<type> M2 (2nd Model)
+    <name>M2 (2nd Model)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1916 </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-002</Refrence>
+    <Ref>FR-002</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-002.jpg</pic>
+    <price>?  $400+</price>
+    <Notes>  The French M2 was originally made with a single clear cellulose eye piece, but was later updated with two circular eye pieces, as with the specimen pictured to the right. Like most early WWI gas masks, the M2 was made from several layers of fabric soaked in absorbent chemicals. The French M2 is the most commonly found WWI French gas masks, but it is still quite rare and typically expensive when found today. It might also be noted that the French M2 was issued in large quantity to American Doughboys during the war as a back up respirator. The M2 was typically issued in a half-circle shaped pouch and sometimes in a rectangular metal tin.</Notes>
+</type>
+
+<type> A.R.S. (Appareil Respiratoire Spécial)
+    <name>A.R.S. (Appareil Respiratoire Spécial)</name>
+    <Translation> Special Breathing Device</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1917 </Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  France </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-003</Refrence>
+    <Ref>FR-003</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-003.jpg</pic>
+    <price>  $170</price>
+    <Notes>  The A.R.S. gas mask is special in that it was the basis for many French masks to follow, and also several other masks of a similar design manufactured by other countries. This version of the A.R.S. was the initial type, made from both rubber and fabric with two circular cellulose eye pieces. The A.R.S. was issued and carried in a short metal can.</Notes>
+</type>
+
+<type> A.R.S. (Appareil Respiratoire Spécial)
+    <name>A.R.S. (Appareil Respiratoire Spécial)</name>
+    <Translation> Special Breathing Device</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1917 </Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  France </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-004</Refrence>
+    <Ref>FR-004</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-004.jpg</pic>
+    <price>  $170</price>
+    <Notes>  The A.R.S. gas mask is special in that it was the basis for many French masks to follow, and also several other masks of a similar design manufactured by other countries. This version of the A.R.S. used an updated head harness virtually identical to the later A.N.P. T 31.</Notes>
+</type>
+
+<type> A.R.S. (Artillery Model)
+    <name>A.R.S. (Artillery Model)</name>
+    <Translation>Special Breathing Device (Artillery Model) </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1917 </Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  France</Country>
+    <Function>  Military</Function>
+    <Refrence> FR-005</Refrence>
+    <Ref>FR-005</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-005.jpg</pic>
+    <price>  $265</price>
+    <Notes>  This version of the A.R.S. has special eye pieces with metal reinforcements over the cellulose discs. This feature was most likely incorporated to allow artillery crew use sighting devices without puncturing holes in the fragile eye pieces. This version also has a wider and more rugged head harness.</Notes>
+</type>
+
+<type> S.E.C.M.P. Modèle R.S.C.
+    <name>S.E.C.M.P. Modèle R.S.C.</name>
+    <Translation>Society for the Study and Construction Protective Equipment Model R.S.C  </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  France</Country>
+    <Function>  Civilian</Function>
+    <Refrence> FR-006</Refrence>
+    <Ref>FR-006</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-006.jpg</pic>
+    <price>? $200+</price>
+    <Notes>  The Modèle R.S.C. was a civilian mask manufactured by S.E.C.M.P. (Société d' Etude et de Construction de Matériel de Protection). It is very similar to the A.R.S. in design and it came in a similar metal carrying can. Unlike the earlier A.R.S., the R.S.C.'s filter inlet was positioned slightly lower than the A.R.S. which allowed for a small exhale valve to be incorporated above the inlet housing. The R.S.C. design was copied in Poland, Slovenia and possibly a few other countries.</Notes>
+</type>
+
+<type> A.N.P. T 31 (Appareil Normal de Protection Type 31)
+    <name>A.N.P. T 31 (Appareil Normal de Protection Type 31)</name>
+    <Translation> Normal Protective Device Type 31</Translation>
+    <Aliases>   Appareil L.S.T.</Aliases>
+    <Date>   c. 1931 </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-007</Refrence>
+    <Ref>FR-007</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-007.jpg</pic>
+    <price>  $165</price>
+    <Notes>  The A.N.P. T 31 is very similar in appearance and design to the earlier A.R.S. gas mask. The A.N.P. T 31 was the standard mask used by the French military during the inter-war years and on into WWII. It was typically used with a long breathing tube and a single filter canister.</Notes>
+</type>
+
+<type> A.N.P. T 31 (Artillery Model)
+    <name>A.N.P. T 31 (Artillery Model)</name>
+    <Translation> Normal Protective Device Type 31 (Artillery Model)</Translation>
+    <Aliases>   Appareil L.S.T.</Aliases>
+    <Date>   c. 1931 </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-008</Refrence>
+    <Ref>FR-008</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-008.jpg</pic>
+    <price>  $180</price>
+    <Notes>  This version of the A.N.P. T 31 was fitted with special eye piece frames to reinforce the thin celluloid eye pieces. This helped prevent accidental breakage when the wearer needed to use sighting devices.</Notes>
+</type>
+
+<type> T.C. 38 (Type Civil 38)
+    <name>T.C. 38 (Type Civil 38)</name>
+    <Translation> Civian Type 38</Translation>
+    <Aliases>   Appareil L.S.</Aliases>
+    <Date>   c. 1938 </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  France</Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> FR-009</Refrence>
+    <Ref>FR-009</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-009.jpg</pic>
+    <price>  $55 </price>
+    <Notes>  Like the A.N.P. T 31, the T.C. 38 also owes its design to the earlier A.R.S. gas mask. The T.C. 38 is for the most part identical to the A.N.P. T 31, but it was issued without the long, corrugated breathing tube. The T.C. 38 also came in a tall cardboard container or a metal canister as opposed to a canvas carrier as with the A.N.P. T 31.</Notes>
+</type>
+
+<type> Securit
+    <name>Securit</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> FR-026</Refrence>
+    <Ref>FR-026</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-026.jpg</pic>
+    <price>  $85 </price>
+    <Notes>  The Securit gas mask is very similar to the T.C. 38, but was made of sheet rubber. The Securit is also very similar to the Salvator masks (see below) but had smaller eye pieces and a different head harness configuration.</Notes>
+</type>
+
+<type> Salvator (smooth brown rubber)
+    <name>Salvator (smooth brown rubber)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> FR-010</Refrence>
+    <Ref>FR-010</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-010.jpg</pic>
+    <price>  $60 </price>
+    <Notes>  The Salvator gas mask is very similar to the T.C. 38, but was made of sheet rubber. There were several different versions of the Salvator, one made of smooth brown rubber (at right) and at least two different versions made from varying black rubber (see below).</Notes>
+</type>
+
+<type> Salvator (smooth black rubber)
+    <name>Salvator (smooth black rubber)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> FR-011</Refrence>
+    <Ref>FR-011</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-011.jpg</pic>
+    <price>  $85 </price>
+    <Notes>  The Salvator gas mask is very similar to the T.C. 38, but was made of sheet rubber. There were at least two versions of the Salvator made from black rubber. The example pictured to the right was made of smooth black rubber.</Notes>
+</type>
+
+<type> Salvator (textured black rubber)
+    <name>Salvator (textured black rubber)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> FR-012</Refrence>
+    <Ref>FR-012</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-012.jpg</pic>
+    <price> $45</price>
+    <Notes>  The Salvator gas mask is very similar to the T.C. 38, but was made of sheet rubber. There were at least two versions of the Salvator made from black rubber. The example pictured to the right was made of textured black rubber.</Notes>
+</type>
+
+<type> A.F.M. 34 (Appareil Filtrant Marine 34)
+    <name>A.F.M. 34 (Appareil Filtrant Marine 34)</name>
+    <Translation> Navy Filtering Apparatus 34</Translation>
+    <Aliases>   Appareil L.M.B.</Aliases>
+    <Date>   c. 1934 </Date>
+    <Frequency> Scarce</Frequency>
+    <Country>  France </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-013</Refrence>
+    <Ref>FR-013</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-013.jpg</pic>
+    <price>? $250+ </price>
+    <Notes>  The A.F.M. 34 is a rare French Navy mask that was issued with a special helmet designed specifically for use with the A.F.M. 34. The front of the face piece of the mask was made from solid painted metal, with sides composed of a canvas material similar the A.N.P. T 31. The filter canister was connected to a corrugated rubber tube that was attached to the metal face piece between the eyes. The filter canister was then suspended behind the head via a metal clip that protruded through a hole in the back of the helmet. The metal clip was attached to the mask's head harness and was not part of the helmet itself. This design was most likely intended to make it easier and less cumbersome to wear aboard ships, were close quarters and confined spaces were abundant. The A.F.M. 34 was also sold commercially, where it was designated the Appareil L.M.B..</Notes>
+</type>
+
+<type> G.E.P. (Gaz Et Protection)
+    <name>G.E.P. (Gaz Et Protection)</name>
+    <Translation> Gas and Protection</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Civilian</Function>
+    <Refrence> FR-014</Refrence>
+    <Ref>FR-014</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-014.jpg</pic>
+    <price>  $125</price>
+    <Notes>  The G.E.P. gas mask is a rare WWII civilian mask with a large clear plastic visor. The face piece was made of leather and was held in place via a six point elastic head harness. The mask used a standard sized French filter canister which was attached via a threaded inlet assembly. An exhale valve was also present beneath the inlet assembly.</Notes>
+</type>
+
+<type> M.S.P. 1934
+    <name>M.S.P. 1934</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1934 </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Civilian</Function>
+    <Refrence> FR-027</Refrence>
+    <Ref>FR-027</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-027.jpg</pic>
+    <price>  $55 </price>
+    <Notes>  The M.S.P. 1934 gas mask is a rare WWII civilian mask with two clear plastic visors. The construction of the mask is very similar to the G.E.P. (above). The mask pictured to the right is missing the seven point head harness. The mask was used with both a filter attached directly to the face piece and also with a corrugated hose and filter.</Notes>
+</type>
+
+<type> Masque à Gaz "Le Gallus"
+    <name>Masque à Gaz "Le Gallus"</name>
+    <Translation> Gas Mask "The Gallus"</Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Civilian/Military</Function>
+    <Refrence> FR-015</Refrence>
+    <Ref>FR-015</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-015.jpg</pic>
+    <price>? $100</price>
+    <Notes>  The Le Gallus gas mask is a strange mask made of khaki rubber that looks very similar to the British General Service Respirator and also similar to the Czech Vz. 35.</Notes>
+</type>
+
+<type> Appareil Ajax F. 2
+    <name>Appareil Ajax F. 2</name>
+    <Translation>Ajax Device F. 2 </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  France</Country>
+    <Function>  Civilian</Function>
+    <Refrence> FR-016</Refrence>
+    <Ref>FR-016</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-016.jpg</pic>
+    <price>  $50 </price>
+    <Notes>  The Ajax F. 2 is a simple mask very similar to the Italian T. 35. The mask was issued in a tall cardboard contained similar to the ones used with the T.C. 38. The filter canister used is also similar to the ones used with the T.C. 38 gas masks.</Notes>
+</type>
+
+<type> C 38
+    <name>C 38</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1938 </Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  France</Country>
+    <Function>  Civilian</Function>
+    <Refrence> FR-018</Refrence>
+    <Ref>FR-018</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-018.jpg</pic>
+    <price>  $55 </price>
+    <Notes>  The C38 is a common WWII era French gas mask that was manufactured throughout the early war years. There were several different versions of the C38 made with slightly different face pieces and several types of rubber. The version pictured to the right was made from a brownish colored rubber. The C38 typically came in a tall gray metal canister.</Notes>
+</type>
+
+<type> C 38 (children's size)
+    <name>C 38 (children's size)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1938 </Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  France</Country>
+    <Function>  Civilian</Function>
+    <Refrence> FR-020</Refrence>
+    <Ref>FR-020</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-020.jpg</pic>
+    <price>  $55</price>
+    <Notes>  The C38 is a common WWII era French gas mask that was manufactured throughout the early war years. There were several different versions of the C38 made with slightly different face pieces and several types of rubber. The version pictured to the right is similar to the above version but was made in a very small size for use by children. The C38 typically came in a tall gray metal canister.</Notes>
+</type>
+
+<type> C 38
+    <name>C 38</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1938 </Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  France</Country>
+    <Function>  Civilian</Function>
+    <Refrence> FR-019</Refrence>
+    <Ref>FR-019</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-019.jpg</pic>
+    <price>  $85 </price>
+    <Notes>  The C38 is a common WWII era French gas mask that was manufactured throughout the early war years. There were several different versions of the C38 made with slightly different face pieces and several types of rubber. The version pictured to the right was made from a black rubber. The C38 typically came in a tall gray metal canister.</Notes>
+</type>
+
+<type> C 38 (post war version)
+    <name>C 38 (post war version)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1938 </Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  France</Country>
+    <Function>  Civilian/Law Enforcement</Function>
+    <Refrence> FR-017</Refrence>
+    <Ref>FR-017</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-017.jpg</pic>
+    <price>  $65 </price>
+    <Notes>  This version of the C 38 is a post war version manufactured in two parts with a face seam in the middle. This version was used for police and riot control officers. Overall, this version is almost identical to the WWII versions.</Notes>
+</type>
+
+<type> Fernez Gas Mask
+    <name>Fernez Gas Mask</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France </Country>
+    <Function>  Civilian/Industrial</Function>
+    <Refrence> FR-025</Refrence>
+    <Ref>FR-025</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-025.jpg</pic>
+    <price>  $50 </price>
+    <Notes>  The Fernez Gas Mask is a rare, commercially produced civilian mask. It is very similar in design to the</Notes>
+</type>
+
+<type> A.N.P. M 51
+    <name>A.N.P. M 51</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1951 </Date>
+    <Frequency> Common</Frequency>
+    <Country>  France/Belgium </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-021</Refrence>
+    <Ref>FR-021</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-021.jpg</pic>
+    <price>  $25 </price>
+    <Notes>  The common M 51 is a simple mask most likely inspired by the earlier C38. It was manufactured in large quantity where it was used in France and Belgium. It was later updated and designated the M 51/53 (see below).</Notes>
+</type>
+
+<type> A.N.P. M 51/53 (Variant)
+    <name>A.N.P. M 51/53 (Variant)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1958 </Date>
+    <Frequency> Rare</Frequency>
+    <Country>  France/Belgium </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-022</Refrence>
+    <Ref>FR-022</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-022.jpg</pic>
+    <price>  $150</price>
+    <Notes>  This version of the A.N.P. M 51/53 is quite strange in that it has a large removable exhale valve cover. It is possible that this mask is a special purpose version or perhaps an "in between" model between the M51 and the M 51/53. See the DETAILS for a closer look at the exhale valve cover.</Notes>
+</type>
+
+<type> A.N.P. M 51/53
+    <name>A.N.P. M 51/53</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s/1960s </Date>
+    <Frequency> Common</Frequency>
+    <Country>  France/Belgium </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-023</Refrence>
+    <Ref>FR-023</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-023.jpg</pic>
+    <price>  $10 </price>
+    <Notes>  The M 51/53 is simply an upgraded version of the M 51. The face piece mold is almost identical, but the exhale valve was modified significantly.</Notes>
+</type>
+
+<type> A.N.P. M 51/53 (heavyweight model)
+    <name>A.N.P. M 51/53 (heavyweight model)</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1950s/1960s </Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  France/Belgium </Country>
+    <Function>  Military</Function>
+    <Refrence> FR-024</Refrence>
+    <Ref>FR-024</Ref>
+    <pic>https://rivethead13.github.io/Images/FR-024.jpg</pic>
+    <price>  $285</price>
+    <Notes>  This version of the M 51/53 was designed for use by decontamination crews were a heavy concentration of NBC agents may be present. It was most likely intended to be worn with a heavy-weight rubber HAZMAT suit. Unlike the regular M 51/53, this version used a long rubber breathing tube which had a dual filter connector so two 40mm thread filter canisters could be attached for an extra degree of protection.</Notes>
+</type>             </masks>

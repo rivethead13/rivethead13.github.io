@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?><masks><type> countriesItaly
+        <name>_________Italy___________________________ </name>
+        <Translation>__________Italian Republic___________________________</Translation>
+        <Aliases> Aiases: n/a</Aliases>
+        <Date> Date for Masks: 1930s - 1990 </Date>
+        <Frequency> Frequency: Rare </Frequency>
+        <Country>Capital: Rome </Country>
+        <Function>Use: Military/Civilian/Industrial </Function>
+        <Refrence>Refrence: IT-???</Refrence>
+        <Ref> IT </Ref>
+        <pic>../Images/flagItaly.jpg</pic>
+        <price>Currency: Euro</price>
+        <Notes>Notes: During World War I, Italy at first stayed neutral but in 1915 signed the Treaty of London, entering Entente on the promise of receiving teritory from the Austro-Hungarian Empire. During the war, more than 650,000 Italian soldiers died,[44] and the economy collapsed. Under the Peace Treaties of Saint-Germain, Rapallo and Rome, Italy obtained most of the promised territories, including the town of Fiume. The turbulence that followed the devastation of World War I, inspired by the Russian Revolution, led to turmoil and anarchy. The liberal establishment, fearing a socialist revolution, started to endorse the small National Fascist Party, led by Benito Mussolini. In October 1922 the fascists attempted a coup (the Marcia su Roma, "March on Rome"), supported by king Victor Emmanuel III. Over the next few years, Mussolini banned all political parties and curtailed personal liberties, thus forming a dictatorship. In 1935, Mussolini invaded Ethiopia, resulting in an international alienation and leading to Italy's withdrawal from the League of Nations. Consequently, Italy allied with Nazi Germany and Empire of Japan and strongly supported Franco in the Spanish civil war. In 1939, Italy occupied Albania, a de facto protectorate for decades, and entered World War II in 1940 on the side of the Axis powers. Mussolini, wanting a quick victory like Hitler's Blitzkriegs in Poland and France, invaded Greece in October 1940 but was forced to accept a humiliating stalemate after a few months. At the same time, Italy, after initially conquering British Somalia and parts of Egypt, saw an allied counter-attack lead to the loss of all possessions in the Horn of Africa and in North Africa. Italy was then invaded by the Allies in July 1943, leading to the collapse of the Fascist regime and the fall of Mussolini. In September 1943, Italy surrendered. The country remained a battlefield for the rest of the war, as the allies were moving up from the south as the north was the base for loyalist Italian fascist and German Nazi forces, fought also by the Italian resistance movement.The hostilities ended on 2 May 1945. Nearly half a million Italians (including civilians) died in the conflict, and the Italian economy had been all but destroyed; per capita income in 1944 was at its lowest point since the beginning of the 20th century. </Notes>
+    </type>
+
+<type> Penna Respirator (1st Type)
+    <name>Penna Respirator (1st Type)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1930s</Date>
+    <Frequency> Frequency:  Rare/Scarce</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-029</Refrence>
+    <Ref>IT-029</Ref>
+    <pic>../Images/IT-029.jpg</pic>
+    <price>Price:? $150+</price>
+    <Notes>Notes:  The Penna Respirator is an early Italian military mask that was most likely the basis for several masks that followed. The face piece was made from green, textured rubber with a medium length breathing hose attached to a large box filter. Penna Respirators are quite rare today, and when found, usually in poor condition.</Notes>
+</type>
+
+<type> Penna Respirator (2nd Type)
+    <name>Penna Respirator (2nd Type)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1930s</Date>
+    <Frequency> Frequency:  Rare/Scarce</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-036</Refrence>
+    <Ref>IT-036</Ref>
+    <pic>../Images/IT-036.jpg</pic>
+    <price>Price:? $150+</price>
+    <Notes>Notes:  The Penna Respirator is an early Italian military mask that was most likely the basis for several masks that followed. The face piece was made from green, textured rubber with a medium length breathing hose attached to a large box filter. Penna Respirators are quite rare today, and when found, usually in poor condition. The example pictured to the right used an updated filter like M.31 and M.33 type masks.</Notes>
+</type>
+
+<type> M.31 (Pirelli)
+    <name>M.31 (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1931</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-001</Refrence>
+    <Ref>IT-001</Ref>
+    <pic>../Images/IT-001.jpg</pic>
+    <price>Price:  $200</price>
+    <Notes>Notes:  The Italian M.31 was a solidly constructed military gas mask which used a large cylindrical filter canister permanently attached to a short breathing tube. There was also an export version of this mask also designated the M.31, but it used a smaller filter in the snout position (see below). This version was manufactured by Pirelli, and was made from light brown rubber.</Notes>
+</type>
+
+<type> M.31 (I.A.C.)
+    <name>M.31 (I.A.C.)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1931</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-025</Refrence>
+    <Ref>IT-025</Ref>
+    <pic>../Images/IT-025.jpg</pic>
+    <price>Price: $200</price>
+    <Notes>Notes:  The Italian M.31 was a solidly constructed military gas mask which used a large cylindrical filter canister permanently attached to a short breathing tube. There was also an export version of this mask also designated the M.31, but it used a smaller filter in the snout position (see below). This version was manufactured by I.A.C. (Industria Articoli Caoutchouc), and was made from dark brown rubber.</Notes>
+</type>
+
+<type> M.31 (Pirelli export model)
+    <name>M.31 (Pirelli export model)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1931</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian/Military</Function>
+    <Refrence>Refrence: IT-002</Refrence>
+    <Ref>IT-002</Ref>
+    <pic>../Images/IT-002.jpg</pic>
+    <price>Price:  $130</price>
+    <Notes>Notes:  The Italian M.31 export model was a variant of the Pirelli M.31 pictured above. The two masks are actually quite different, making it is interesting that they share the same designation. This version may have been exported to both Spain and Germany, as well as used in Italy.</Notes>
+</type>
+
+<type> Autoprotettore S.C.M. 37 (Spasciani)
+    <name>Autoprotettore S.C.M. 37 (Spasciani)</name>
+    <Translation>Self Protector S.C.M. 37 </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1931</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-035</Refrence>
+    <Ref>IT-035</Ref>
+    <pic>../Images/IT-035.jpg</pic>
+    <price>Price:  $450</price>
+    <Notes>Notes:  The Spasciani Autoprotettore S.C.M. 37 was a closet circuit rebreather used with the M.31 face piece. The rebreather unit was carried on the wearer's back, and was monitored via a small gauge which was clipped to the shoulder strap across the chest (see DETAILS). The Autoprotettore S.C.M. 37 was housed in a large wooden box which contained extra canisters and a tool set. Like most WWII era rebreathers, the Autoprotettore S.C.M. 37 is fairly rare and difficult to find today in complete condition.</Notes>
+</type>
+
+<type> M.33 (I.A.C.)
+    <name>M.33 (I.A.C.)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1933</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-003</Refrence>
+    <Ref>IT-003</Ref>
+    <pic>../Images/IT-003.jpg</pic>
+    <price>Price:  $110</price>
+    <Notes>Notes:  The Italian M.33 was very similar to the M.31, however it used a smaller, lighter filter that could be easily unscrewed and changed out when expired. Like the M.31, the M.33 also shared its name with another export model similar to the M.31 export model (see below). The M.33 examples pictured to the right and below were made by I.A.C. (Industria Articoli Caoutchouc).</Notes>
+</type>
+
+<type> M.33 (I.A.C. export model)
+    <name>M.33 (I.A.C. export model)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1933</Date>
+    <Frequency> Frequency:  Rare/Scarce</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-004</Refrence>
+    <Ref>IT-004</Ref>
+    <pic>../Images/IT-004.jpg</pic>
+    <price>Price:  $145</price>
+    <Notes>Notes:  The Italian M.33 export model is very similar to the M.31 export model, but it was made of a dark green rubber instead of the lighter khaki color used for the M.31. This version may have been exported to both Spain and Germany, as well as used in Italy.</Notes>
+</type>
+
+
+<type> T.35 (Pirelli)
+    <name>T.35 (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Common</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military/Civilian</Function>
+    <Refrence>Refrence: IT-005</Refrence>
+    <Ref>IT-005</Ref>
+    <pic>../Images/IT-005.jpg</pic>
+    <price>Price:  $50</price>
+    <Notes>Notes:  The Italian T.35 is perhaps the most common WWII Italian mask, and it was made in several different versions by several manufacturers. Despite all of these variations, the T.35's appearance is generally the same across the board. This version, made by Pirelli, is certainly the most common.</Notes>
+</type>
+
+<type> T.35 (I.A.C.)
+    <name>T.35 (I.A.C.)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Common</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military/Civilian</Function>
+    <Refrence>Refrence: IT-006</Refrence>
+    <Ref>IT-006</Ref>
+    <pic>../Images/IT-006.jpg</pic>
+    <price>Price:  $75</price>
+    <Notes>Notes:  The Italian T.35 is perhaps the most common WWII Italian mask, and it was made in several different versions by several manufacturers. Despite all of these variations, the T.35's appearance is generally the same across the board. This version, made by I.A.C. may be an export model.</Notes>
+</type>
+
+<type> T.35 (Superga)
+    <name>T.35 (Superga)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military/Civilian</Function>
+    <Refrence>Refrence: IT-037</Refrence>
+    <Ref>IT-037</Ref>
+    <pic>../Images/IT-037.jpg</pic>
+    <price>Price:  $110</price>
+    <Notes>Notes:  The Italian T.35 is perhaps the most common WWII Italian mask, and it was made in several different versions by several manufacturers. Despite all of these variations, the T.35's appearance is generally the same across the board. This version, was made by Superga, and is probably the most rare version.</Notes>
+</type>
+
+<type> T.35 R (Sacic)
+    <name>T.35 R (Sacic)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Uncommon/Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military/Civilian</Function>
+    <Refrence>Refrence: IT-007</Refrence>
+    <Ref>IT-007</Ref>
+    <pic>../Images/IT-007.jpg</pic>
+    <price>Price: $75</price>
+    <Notes>Notes:  The Italian T.35 is perhaps the most common WWII Italian mask, and it was made in several different versions by several manufacturers. Despite all of these variations, the T.35's appearance is generally the same across the board. This version, was made by Sacic, another company manufacturing masks for both Italy and Belgium.</Notes>
+</type>
+
+<type> T.35-SIR (Pirelli)
+    <name>T.35-SIR (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military/Civilian</Function>
+    <Refrence>Refrence: IT-027</Refrence>
+    <Ref>IT-027</Ref>
+    <pic>../Images/IT-027.jpg</pic>
+    <price>Price:  $200</price>
+    <Notes>Notes:  The Italian T.35 is perhaps the most common WWII Italian mask, and it was made in several different versions by several manufacturers. Despite all of these variations, the T.35's appearance is generally the same across the board. However, this special version, was made with all black rubber by Pirelli. The T.35-SIR is most likely another special purpose mask used against a specific hazard.</Notes>
+</type>
+
+<type> Pir.35
+    <name>Pir.35</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian</Function>
+    <Refrence>Refrence: IT-008</Refrence>
+    <Ref>IT-008</Ref>
+    <pic>../Images/IT-008.jpg</pic>
+    <price>Price:  $115</price>
+    <Notes>Notes:  The Pir.35 is very similar to the T.35 but was most likely used for a special purpose, such as tear gas or ammonia.</Notes>
+</type>
+
+<type> PC.35 (I.A.C.)
+    <name>PC.35 (I.A.C.)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian</Function>
+    <Refrence>Refrence: IT-009</Refrence>
+    <Ref>IT-009</Ref>
+    <pic>../Images/IT-009.jpg</pic>
+    <price>Price:  $90</price>
+    <Notes>Notes:  The P.C. 35 is another Italian WWII mask that looks basically identical to the T.35. Again, it is most likely a mask designed for an unknown special purpose.</Notes>
+</type>
+
+<type> F.T.35 (Sacic)
+    <name>F.T.35 (Sacic)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Rare/Scarce</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-010</Refrence>
+    <Ref>IT-010</Ref>
+    <pic>../Images/IT-010.jpg</pic>
+    <price>Price:? $100+</price>
+    <Notes>Notes:  The Italian F.T.35 is another variant of the T.35 which incorporated a speech diaphragm to enhance the audibility of the wearers voice. These special masks were most likely used by officers and others who needed to communicate efficiently more frequently than typical personnel. Interestingly, the F.T.35 was also manufactured with Tissot tubes inside the mask, a feature not found in most other WWII Italian masks.</Notes>
+</type>
+
+<type> R.M.F.35 (Pirelli)
+    <name>R.M.F.35 (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1935</Date>
+    <Frequency> Frequency:  Rare/Scarce</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-028</Refrence>
+    <Ref>IT-028</Ref>
+    <pic>../Images/IT-028.jpg</pic>
+    <price>Price:? $100</price>
+    <Notes>Notes:  Like the F.T.35 (above), the Italian R.M.F.35 also used a speech diaphragm, however it was significantly larger. The R.M.F.35 also came equipped with a long breathing hose and a tall filter canister. It is possible that this mask was intended for tank crews where enhanced mobility was not needed. The R.M.F.35 is quite scarce today as this mask was most likely made in smaller quantities.</Notes>
+</type>
+
+<type> PC.38 (I.A.C.)
+    <name>PC.38 (I.A.C.)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1938</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian</Function>
+    <Refrence>Refrence: IT-011</Refrence>
+    <Ref>IT-011</Ref>
+    <pic>../Images/IT-011.jpg</pic>
+    <price>Price:  $90</price>
+    <Notes>Notes:  The PC.38 is a simply constructed civilian mask made with a single plastic visor. Because of the mask's simple construction it was most likely inexpensive but probably only offered a very minimal level of protection.</Notes>
+</type>
+
+<type> R.S.38 (Spasciani)
+    <name>R.S.38 (Spasciani)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1938</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian</Function>
+    <Refrence>Refrence: IT-012</Refrence>
+    <Ref>IT-012</Ref>
+    <pic>../Images/IT-012.jpg</pic>
+    <price>Price:  $100</price>
+    <Notes>Notes:  Like the PC.38, the R.S.38 was simply constructed of thin sheet rubber. Like many civilian masks of this era, the R.S.38 was made of inexpensive materials, but offered limited protection. However, this gave the manufacturer the ability to supply these masks in great numbers.</Notes>
+</type>
+
+<type> PC.40 (Pirelli)
+    <name>PC.40 (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1940</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian</Function>
+    <Refrence>Refrence: IT-013</Refrence>
+    <Ref>IT-013</Ref>
+    <pic>../Images/IT-013.jpg</pic>
+    <price>Price:  $80</price>
+    <Notes>Notes:  The PC.40 is another mask that looks almost identical to the T.35. However, the PC.40 was constructed of very thin rubber, making it quite flimsy and much less durable than the T.35.</Notes>
+</type>
+
+<type> PC.40 (Sacic)
+    <name>PC.40 (Sacic)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1940</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian</Function>
+    <Refrence>Refrence: IT-014</Refrence>
+    <Ref>IT-014</Ref>
+    <pic>../Images/IT-014.jpg</pic>
+    <price>Price:  $90</price>
+    <Notes>Notes:  This version of the PC.40 is basically identical to the above version, however this version was made by Sacic. The filter canisters used are also slightly different.</Notes>
+</type>
+
+<type> T.U.O./MN (Pirelli)
+    <name>T.U.O./MN (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1940s</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian</Function>
+    <Refrence>Refrence: IT-015</Refrence>
+    <Ref>IT-015</Ref>
+    <pic>../Images/IT-015.jpg</pic>
+    <price>Price:  $125</price>
+    <Notes>Notes:  The T.U.O./MN is another simple civilian mask made of thin rubber with thin plastic eye pieces. It is difficult to believe that this mask offered a great deal of protection, as a tight face seal is nearly impossible to achieve with this type of mask.</Notes>
+</type>
+
+<type> L.B./v.n. (Pirelli)
+    <name>L.B./v.n. (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1940s</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian/Civil Defense</Function>
+    <Refrence>Refrence: IT-016</Refrence>
+    <Ref>IT-016</Ref>
+    <pic>../Images/IT-016.jpg</pic>
+    <price>Price: $95</price>
+    <Notes>Notes:  The L.B./v.n. is an interesting civilian mask which uses a "helmet" type face piece that encapsulates the wearer's whole face and most of the head. This mask was most likely modeled after the German VM37.</Notes>
+</type>
+
+<type> O.39 (I.A.C.)
+    <name>O.39 (I.A.C.)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1939</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-017</Refrence>
+    <Ref>IT-017</Ref>
+    <pic>../Images/IT-017.jpg</pic>
+    <price>Price:? $100+</price>
+    <Notes>Notes:  The O.39 is an optical mask designed to be used with sighting devices. The round glass eye pieces were situated close to the face when the mask was worn, making the use of optical sighting devices like binoculars possible. It is possible that this mask was designed for use in tanks or aboard ships.</Notes>
+</type>
+
+<type> O.41Rs (I.A.C.)
+    <name>O.41Rs (I.A.C.)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1941</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-018</Refrence>
+    <Ref>IT-018</Ref>
+    <pic>../Images/IT-018.jpg</pic>
+    <price>Price: $200</price>
+    <Notes>Notes:  The O.41Rs in another optical gas mask used in Italy during WWII. For the most part, it is identical to the O.39, but was made of a thicker black rubber.</Notes>
+</type>
+
+<type> Super 53 (Spasciani)
+    <name>Super 53 (Spasciani)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1950s</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian/Industrial</Function>
+    <Refrence>Refrence: IT-026</Refrence>
+    <Ref>IT-026</Ref>
+    <pic>../Images/IT-026.jpg</pic>
+    <price>Price:  $165</price>
+    <Notes>Notes:  The Super 53 is a post war gas mask made by Spasciani. The mask was made from soft brown rubber with a fabric and rubber head harness. The Super 53 was most likely used for industrial application, but may have also been used as a civilian mask for war gases.</Notes>
+</type>
+
+<type> SIP
+    <name>SIP</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1970s</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian/Industrial</Function>
+    <Refrence>Refrence: IT-030</Refrence>
+    <Ref>IT-030</Ref>
+    <pic>../Images/IT-030.jpg</pic>
+    <price>Price:? $100+</price>
+    <Notes>Notes:  The Italian SIP gas mask was most likely an industrial mask used by civilians. It is possible that it was also used by fire fighters as a smoke mask. The mask featured a full vision type face piece, with a large clear visor which allowed for a wide field of view. The SIP gas mask is quite rare to find today on the surplus market.</Notes>
+</type>
+
+<type> M59 (Sèkur-Pirelli)
+    <name>M59 (Sèkur-Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1959</Date>
+    <Frequency> Frequency:  Uncommon/Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-019</Refrence>
+    <Ref>IT-019</Ref>
+    <pic>../Images/IT-019.jpg</pic>
+    <price>Price:  $80</price>
+    <Notes>Notes:  The M59 was issued with both a filter connected in the snout position and with a long corrugated breathing tube (below). The mask has both an exhale valve and a speech diaphragm. The M59 was most likely used for several decades until it was replaced with the M90.</Notes>
+</type>
+
+<type> M59 (Sèkur-Pirelli)
+    <name>M59 (Sèkur-Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1959</Date>
+    <Frequency> Frequency:  Uncommon/Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-020</Refrence>
+    <Ref>IT-020</Ref>
+    <pic>../Images/IT-020.jpg</pic>
+    <price>Price:  $100</price>
+    <Notes>Notes:  The M59 was issued with both a filter connected in the snout position (above) and with a long corrugated breathing tube. The mask has both an exhale valve and a speech diaphragm. The M59 was most likely used for several decades until it was replaced with the M90.</Notes>
+</type>
+
+<type> M73 (Sèkur-Pirelli)
+    <name>M73 (Sèkur-Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1970s</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-034</Refrence>
+    <Ref>IT-034</Ref>
+    <pic>../Images/IT-034.jpg</pic>
+    <price>Price:? $100+</price>
+    <Notes>Notes:  The M73 is an optical gas mask for tank crew and soldiers equipped with optical sighting devices. The M73 is very similar to the M59, and was carried in a similar canvas case.</Notes>
+</type>
+
+<type> C60 (Pirelli)
+    <name>C60 (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1960s</Date>
+    <Frequency> Frequency:  Uncommon/Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian/Industrial</Function>
+    <Refrence>Refrence: IT-021</Refrence>
+    <Ref>IT-021</Ref>
+    <pic>../Images/IT-021.jpg</pic>
+    <price>Price:  $80</price>
+    <Notes>Notes:  The C60 was most likely used for industrial purposes but may have also been sold as a civilian protective mask as well. Several different versions of the the C60 were made but can usually be recognized by it's wide plastic visor. This version of the mask featured a large speech diaphragm in the center of the face piece and a separate, removable inlet/outlet assembly that was attached to the mask's face piece. This particular mask was most likely used for fire fighting.</Notes>
+</type>
+
+<type> C60 (Pirelli)
+    <name>C60 (Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1960s</Date>
+    <Frequency> Frequency:  Uncommon/Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Civilian/Industrial</Function>
+    <Refrence>Refrence: IT-022</Refrence>
+    <Ref>IT-022</Ref>
+    <pic>../Images/IT-022.jpg</pic>
+    <price>Price:  $50</price>
+    <Notes>Notes:  The C60 was most likely used for industrial purposes but may have also been sold as a civilian protective mask as well. The C60 was made in several different variations but can usually be recognized by it's wide plastic visor. This version of the mask featured a large speech diaphragm in the center of the face piece and two exhale valves on either side. The C60 was designed to accept standard 40mm thread filter canisters.</Notes>
+</type>
+
+<type> M90 (Sèkur-Pirelli)
+    <name>M90 (Sèkur-Pirelli)</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1990</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Italy</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: IT-023</Refrence>
+    <Ref>IT-023</Ref>
+    <pic>../Images/IT-023.jpg</pic>
+    <price>Price:? $150+</price>
+    <Notes>Notes:  The Italian M90 is a modern styled NBC respirator with a fully molded face piece, a voice-mitter, a drinking system and a quick release rubber head harness. The face piece is made of a combination of natural rubber and bromobutyl rubber and is designed to be used with a protective NBC hood. The curved polycarbonate eye pieces were made to accommodate the use of optical sighting instruments. The M90 is not a common mask to find on the surplus market as it was replaced by the SGE 1000 in the late 1990s.</Notes>
+</type>             </masks>

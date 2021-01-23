@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><masks><type> countriesHungary
+        <name>_________Hungary___________________________ </name>
+        <Translation>_________Republic of Hungary___________________________</Translation>
+        <Aliases> Aiases: n/a</Aliases>
+        <Date> Date for Masks: 1930s - 1970s </Date>
+        <Frequency> Frequency: Uncommon/Rare </Frequency>
+        <Country>Capital: Budapest </Country>
+        <Function>Use: Military/Civilian </Function>
+        <Refrence>Refrence: HU-???</Refrence>
+        <Ref> HU </Ref>
+        <pic>../Images/flagHungary.jpg</pic>
+        <price>Currency: Forint</price>
+        <Notes>Notes:  Austria–Hungary drafted 9 million soldiers in World War I on the side of Germany, Bulgaria and Turkey. The Central Powers conquered Serbia.The Central Powers conquered Southern Romania and the Romanian capital Bucharest. In 1916 Emperor Franz Joseph died, and the new monarch Charles IV sympathized with the pacifists. With great difficulty, the Central powers stopped and repelled the attacks of the Russian Empire. The Eastern front of the Allied (Entente) Powers completely collapsed. The Austro-Hungarian Empire then withdrew from all defeated countries. On the Italian front, the Austro-Hungarian army made no progress against Italy after January 1918. Despite great Eastern successes, Germany suffered complete defeat on the more important Western front. In October 1918, Hungary's union with Austria was dissolved. In 1941, the Hungarian army took part in the invasion of Yugoslavia, regaining some more territories. On 22 June 1941, Germany invaded the Soviet Union under Operation Barbarossa; Hungary joined the German effort and declared war on the Soviet Union, and formally entered World War II on the side of the Axis Powers. In late 1941, the Hungarian troops on the Eastern Front experienced success at the Battle of Uman. By 1943, after the Hungarian Second Army suffered extremely heavy losses at the River Don, the Hungarian government sought to negotiate a surrender with the Allies. In 1944, as a result of this duplicity, German troops occupied Hungary in what was known as Operation Margarethe. Miklós Horthy made a token effort to disengage Hungary from the war, but he was replaced by a puppet government under the pro-German Prime Minister Ferenc Szálasi of the Arrow Cross Party.The war left Hungary devastated destroying over 60% of the economy and causing huge loss of life. Many Hungarians, including women and children, were brutally raped, murdered and executed or deported for slave labour by Czechoslovaks, Soviet Red Army troops, Yugoslavs (by the end of the war approximately 500,000–650,000 people.</Notes>
+    </type>
+    
+<type> M-34
+    <name>M-34</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1930s</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Hungary</Country>
+    <Function>Use:  Civil Defense/Military</Function>
+    <Refrence>Refrence: HU-001</Refrence>
+    <Ref>HU-001</Ref>
+    <pic>../Images/HU-001.jpg</pic>
+    <price>Price:  $185</price>
+    <Notes>Notes:  The Hungarian M-34 is a rugged mask designed for civil defense and military use. It used a large green filter canister in the snout position. The M-34 was issued in a large metal carrying canister.</Notes>
+</type>
+
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  Civilian Gas Mask</Aliases>
+    <Date> Date:  c. 1930s</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Hungary</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: HU-002</Refrence>
+    <Ref>HU-002</Ref>
+    <pic>../Images/HU-002.jpg</pic>
+    <price>Price:  $125</price>
+    <Notes>Notes:  This simple WWII era civilian mask was made of a reddish canvas materiel with an exhale valve positioned on the left side. The mask may have been used for children as most of these masks seem to be of a very small size. The mask was carried in a tan canvas carrier.</Notes>
+</type>
+
+<type> M67
+    <name>M67</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1960s</Date>
+    <Frequency> Frequency:  Rare</Frequency>
+    <Country>Country:  Hungary</Country>
+    <Function>Use:  Civil Defense</Function>
+    <Refrence>Refrence: HU-003</Refrence>
+    <Ref>HU-003</Ref>
+    <pic>../Images/HU-003.jpg</pic>
+    <price>Price:  $125</price>
+    <Notes>Notes:  This rare Hungarian civil defense mask was made of a thick green canvas materiel and came with a long corrugated breathing tube attached to a tall green filter canister. This mask is not very common today, unlike the the very similar looking civilian version (below).</Notes>
+</type>
+
+<type> M76
+    <name>M76</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1970s</Date>
+    <Frequency> Frequency:  Common/Uncommon</Frequency>
+    <Country>Country:  Hungary</Country>
+    <Function>Use:  Civilian</Function>
+    <Refrence>Refrence: HU-004</Refrence>
+    <Ref>HU-004</Ref>
+    <pic>../Images/HU-004.jpg</pic>
+    <price>Price:  $75</price>
+    <Notes>Notes:  Like the above mask, this mask used a green canvas face piece. However, this version was a civilian mask which used a smaller filter canister in the snout position. The inlet/outlet assembly used for this mask is also quite different than the above version. The mask was imported into the US as surplus in large quantities during the 1990s, and is thus quite common on the surplus market today.</Notes>
+</type>
+
+<type> 70M
+    <name>70M</name>
+    <Translation> </Translation>
+    <Aliases> Aliases:  n/a</Aliases>
+    <Date> Date:  c. 1970s</Date>
+    <Frequency> Frequency:  Common</Frequency>
+    <Country>Country:  Hungary/Bulgaria</Country>
+    <Function>Use:  Military</Function>
+    <Refrence>Refrence: HU-005</Refrence>
+    <Ref>HU-005</Ref>
+    <pic>../Images/HU-005.jpg</pic>
+    <price>Price:? $75+</price>
+    <Notes>Notes:  The Hungarian 70M is very similar to the Soviet PMG. The only noticeable difference between the masks is the speech diaphragm. The 70M's speech diaphragm has smaller holes in hexagon arrangement while the Soviet PMG has larger holes in a more circular arrangement.</Notes>
+</type>
+             </masks>

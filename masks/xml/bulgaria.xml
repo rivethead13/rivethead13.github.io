@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks><type> countriesBulgaria
+        <name>Bulgaria </name>
+        <Translation>Republic of Bulgaria</Translation>
+        <Aliases>  m/s</Aliases>
+        <Date> Date for Masks: 1930s - 1990s </Date>
+        <Frequency>  Rare </Frequency>
+        <Country>Capital: Sofia </Country>
+        <Function> Military/Civilian </Function>
+        <Refrence> BU-???</Refrence>
+        <Ref> BU </Ref>
+        <pic>https://rivethead13.github.io/Images/flagBulgaria.jpg</pic>
+        <price>Currency: Lev </price>
+        <Notes> In the 1920s and 1930s the country suffered political unrest, which led to the establishment of a royal authoritarian dictatorship by Tsar Boris III (reigned 1918–1943). After regaining control of Southern Dobrudzha in 1940, Bulgaria entered World War II in 1941 as a member of the Axis. However, it declined to participate in Operation Barbarossa and never declared war on the USSR, and saved its Jewish population from deportation to concentration camps by repeatedly postponing compliance with German demands, offering various rationales. In September 1944 the Communist-dominated Fatherland Front took power, following strikes and unrest, ending the alliance with Nazi Germany and joining the Allied side until the end of the war in 1945. The Communist uprising of 9 September 1944 led to the abolition of monarchic rule, but it was not until 1946 that a people's republic was established. It came under the Soviet sphere of influence, with Georgi Dimitrov (1946–1949) as the foremost Bulgarian political leader. Bulgaria installed a Soviet-type planned economy with some market-oriented policies emerging on an experimental level under Todor Zhivkov (1954–1989). </Notes>
+    </type>
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1930s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> BU-010</Refrence>
+    <Ref>BU-010</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-010.jpg</pic>
+    <price>  $190</price>
+    <Notes>  This early Bulgarian mask was most likely used as a civilian mask but may have also been used by the military. The mask is very similar to the Czech Fatra FM series, but was made of sturdier materials overall. Like most early Bulgarian masks, this type is quite rare today.</Notes>
+</type>
+
+<type> BSS-MO-4U
+    <name>BSS-MO-4U</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Military</Function>
+    <Refrence> BU-004</Refrence>
+    <Ref>BU-004</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-004.jpg</pic>
+    <price> $37</price>
+    <Notes>  This Bulgarian mask was based on the Soviet This Bulgarian mask was based on the Soviet SM-1 helmet type design and is almost identical to the Russian version used in the 1970s. A very similar mask was also used in East Germany where it was designated the SchM41M.</Notes>
+</type>
+
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Military</Function>
+    <Refrence> BU-005</Refrence>
+    <Ref>BU-005</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-005.jpg</pic>
+    <price>? $100+</price>
+    <Notes>  This mask is almost identical to the above version but was equipped with a circular speech diaphragm on the front of the mask. The mask was most likely issued to officers or radio operators, and possibly tank drivers.</Notes>
+</type>
+
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Civilian</Function>
+    <Refrence> BU-001</Refrence>
+    <Ref>BU-001</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-001.jpg</pic>
+    <price>  $45
+</price>
+    <Notes>  This Bulgarian mask was obviously designed for use by small children. It is very similar to the Czech DM-1 and is about equally as difficult to find today.</Notes>
+</type>
+
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Civilian</Function>
+    <Refrence> BU-006</Refrence>
+    <Ref>BU-006</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-006.jpg</pic>
+    <price>  $50
+</price>
+    <Notes>  This Bulgarian mask is very similar to the Polish MC-1 and the Czech CM-3. It was also most likely also used as a civilian gas mask.</Notes>
+</type>
+
+<type> Unknown
+    <name>Unknown</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1982</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Military</Function>
+    <Refrence> BU-008</Refrence>
+    <Ref>BU-008</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-008.jpg</pic>
+    <price>  $125</price>
+    <Notes>  This mask, which is obviously a direct copy of the US M9, is most likely a Bulgarian made mask that saw use in the Middle-East during the first Gulf War. Interestingly, the mask bears no markings that would definitively indicate the country of origin, leading to some speculation that the mask could actually be Romanian or Yugoslavian. However, the fact that Bulgaria did produce a direct copy of the US M17 (see the PDE-1 below) would be reason enough to speculate that this mask was its predecessor. These M9 copies are certainly rare, and when found are usually in Iraqi carriers very similar to those used with the M74 and M85 series gas masks.</Notes>
+</type>
+
+<type> PDE-1
+    <name>PDE-1</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1980s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Military</Function>
+    <Refrence> BU-002</Refrence>
+    <Ref>BU-002</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-002.jpg</pic>
+    <price>  $50
+</price>
+    <Notes>  The Bulgarian PDE-1 is another of the many US M17 copies produced by other countries. The PDE-1 is for the most part identical to the Czech M10. Only the color of rubber separates the two. The PDE-1 is now somewhat difficult to find on the surplus market.</Notes>
+</type>
+
+<type> PG-1
+    <name>PG-1</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Military</Function>
+    <Refrence> BU-003</Refrence>
+    <Ref>BU-003</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-003.jpg</pic>
+    <price>  $30
+</price>
+    <Notes>  The Bulgarian PG-1 is very similar to the Czech CM-4. It has similar eye pieces and a similar voice-mitter. Several PG-1 masks have been imported into the US for sale as surplus, but these are still somewhat difficult to find. However, surplus PG-1 masks are usually in excellent, un-issued condition, with an original filter canister and rubberized carrier.</Notes>
+</type>
+
+<type> PF-90
+    <name>PF-90</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  Bulgaria</Country>
+    <Function>  Military</Function>
+    <Refrence> BU-009</Refrence>
+    <Ref>BU-009</Ref>
+    <pic>https://rivethead13.github.io/Images/BU-009.jpg</pic>
+    <price>? $38+</price>
+    <Notes>  The Bulgarian PF-90 is a modern NBC respirator equipped with a drinking tube and several other advanced features. The mask has multiple ports for voice amplification accessories which can be attached to both the front of the mask or on the side.</Notes>
+</type>             </masks>

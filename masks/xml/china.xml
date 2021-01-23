@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <?xml-stylesheet href="PageLayout.xsl" type="text/xsl" ?> <masks><type> countriesChina
+        <name>China </name>
+        <Translation>People's Republic of China</Translation>
+        <Aliases>  n/a</Aliases>
+        <Date> Date for Masks: 1960s - 1990s </Date>
+        <Frequency>  Uncommon/Rare </Frequency>
+        <Country>Capital: Beijing </Country>
+        <Function> Military </Function>
+        <Refrence> CH-???</Refrence>
+        <Ref> CH </Ref>
+        <pic>https://rivethead13.github.io/Images/flagChina.jpg</pic>
+        <price>Currency: yuan</price>
+        <Notes> The last dynasty, the Qing, ended in 1911 with the founding of the Republic of China (ROC) by the Kuomintang (KMT), the Chinese Nationalist Party. The first half of the 20th century saw China plunged into a period of disunity and civil wars that divided the country into two main political camps – the Kuomintang and the communists. Major hostilities ended in 1949, when the communists won the civil war and established the People's Republic of China in mainland China. The KMT-led Republic of China relocated their capital to Taipei on Taiwan; its jurisdiction is now limited to Taiwan, Kinmen, Matsu and several outlying islands. Since then, the People's Republic of China (PRC) has been involved in political disputes with the Republic of China over issues of sovereignty and the political status of Taiwan.
+Since the introduction of market-based economic reforms in 1978, China has become the world's fastest growing major economy, the world's largest exporter and second largest importer of goods. It is the world's second largest economy by both nominal GDP and purchasing power parity (PPP) and a permanent member of the United Nations Security Council. It is also a member of formal/informal multilateral organizations including the WTO, APEC, BRIC, Shanghai Cooperation Organisation, and G-20. China is a recognized nuclear weapons state and has the world's largest standing army with the second-largest defense budget. China has been characterized as a potential superpower by a number of academics, military analysts, and public policy and economics analysts.        </Notes>
+    </type>
+
+<type> M64
+    <name>M64</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1964</Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  China
+</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-001</Refrence>
+    <Ref>CH-001</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-001.jpg</pic>
+    <price> $3955</price>
+    <Notes>  This early Chinese mask is most likely a predecessor of the MF4. The mask has a unique combination exhale valve/speech diaphragm assembly which was made of a hard, translucent plastic material. This Chinese gas mask is quite difficult to find on the collector's market and specimens are usually in fairly poor condition when located.</Notes>
+</type>
+
+<type> MF4
+    <name>MF4</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-002</Refrence>
+    <Ref>CH-002</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-002.jpg</pic>
+    <price>  $85
+</price>
+    <Notes>  The Chinese MF4 is a simple mask very similar to other Chinese gas masks from this time period. It used the same exhale valve/speech diaphragm assembly as the later M65 and a similar head harness. The MF4 is quite rare on the collector's market making it one of the more difficult Chinese masks to acquire.</Notes>
+</type>
+
+<type> M65 (early version)
+    <name>M65 (early version)</name>
+    <Translation> </Translation>
+    <Aliases>   FMJ03</Aliases>
+    <Date>   c. 1965</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-003</Refrence>
+    <Ref>CH-003</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-003.jpg</pic>
+    <price> $395</price>
+    <Notes>  The M65 was originally manufactured in the mid 1960s and went on to be used by the NVA during the Vietnam War. After Vietnam, many of these masks found their way to the United States where they are sold and traded as wartime collectibles. The version of the M65 pictured was later upgraded with a few minor changes to the fittings. However, the mask's unique design remained the same overall.</Notes>
+</type>
+
+<type> TF1 (early version)
+    <name>TF1 (early version)</name>
+    <Translation> </Translation>
+    <Aliases>   MF1</Aliases>
+    <Date>   c. 1960s</Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-004</Refrence>
+    <Ref>CH-004</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-004.jpg</pic>
+    <price>  $45</price>
+    <Notes>  The Chinese TF1 is a very close copy of the common Soviet ShM 'helmet' type gas mask. It looks almost identical, however the TF1 uses a plastic inlet/outlet valve assembly instead of a metal one. Early TF1 type masks were made of a brownish rubber where later versions were made from a gray colored rubber (see below). The example pictured to the right is missing the breathing tube and also the filter canister, which was most likely very similar to the M64 (above). This early version of the TF1 is more difficult to find today than the updated version, which was imported in quantity after the Sept. 11th terrorist attacks and the anthrax mailings that followed.</Notes>
+</type>
+
+<type> M69
+    <name>M69</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1969</Date>
+    <Frequency> Rare/Scarce</Frequency>
+    <Country>  China</Country>
+    <Function>  Military/Civilian</Function>
+    <Refrence> CH-005</Refrence>
+    <Ref>CH-005</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-005.jpg</pic>
+    <price> $229</price>
+    <Notes>  The M69 is a rare Chinese mask developed for the military and also possibly for civilian industrial use. The M69 used a small, light-weight plastic filter canister which could be attached to the left side of the face piece, getting away from the cheek pouch used with the earlier M65 masks. The M69 was rarely exported, making the mask quite difficult to find outside of China.</Notes>
+</type>
+
+<type> M65 (updated version)
+    <name>M65 (updated version)</name>
+    <Translation> </Translation>
+    <Aliases>   FMJ03</Aliases>
+    <Date>   c. 1965</Date>
+    <Frequency> Uncommon/Rare</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-006</Refrence>
+    <Ref>CH-006</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-006.jpg</pic>
+    <price> $395</price>
+    <Notes>  The Chinese M65 was originally designed in the mid 1960s and was used by the NVA during the Vietnam War. Pictured is a new and unissued M65. This upgraded version used plastic rings held tight by screws instead of rubber bands to seal the filter inlet and outlet assemblies. However overall, the mask's unique design did not change. This version can sometimes be found in quantity in new unissued condition.</Notes>
+</type>
+
+<type> TF1 (updated version)
+    <name>TF1 (updated version)</name>
+    <Translation> </Translation>
+    <Aliases>   MF1</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-007</Refrence>
+    <Ref>CH-007</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-007.jpg</pic>
+    <price>  $60</price>
+    <Notes>  This version of the Chinese TF1 is a very close to the original version (see above) but was manufactured with gray rubber and plastic parts of a better quality. The breathing tube is covered with a light colored fabric as opposed to the earlier tan color. This mask can be found in new un-issued condition as many were imported into the US after the Sept. 11th terrorist attacks and the anthrax mailings that followed.</Notes>
+</type>
+
+<type> TF5
+    <name>TF5</name>
+    <Translation> </Translation>
+    <Aliases>   MF1A</Aliases>
+    <Date>   c. 1970s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-008</Refrence>
+    <Ref>CH-008</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-008.jpg</pic>
+    <price>  $75</price>
+    <Notes>  This Chinese gas mask is obviously fashioned after the Soviet ShM 'helmet' type gas mask. However, this mask uses triangular plastic eye pieces with a black plastic rim. Like the similar Soviet models, this mask used a long corrugated rubber breathing tube that attached to a tall filter canister.</Notes>
+</type>
+
+<type> MF11B
+    <name>MF11B</name>
+    <Translation> </Translation>
+    <Aliases>   M85</Aliases>
+    <Date>   c. 1985</Date>
+    <Frequency> Uncommon</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-009</Refrence>
+    <Ref>CH-009</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-009.jpg</pic>
+    <price>  $90</price>
+    <Notes>  The MF11B is lightweight gas mask of a modern design used in China. The configuration is very similar to the earlier M65 gas mask. The MF11B was later updated with a drinking tube attachment and was subsequently exported to the US where it was designated the MF11. The MF11B was also exported in significant number to the US after the Sept. 11 terrorist attacks.</Notes>
+</type>
+
+<type> MF11
+    <name>MF11</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1980s</Date>
+    <Frequency> Common/Uncommon</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-010</Refrence>
+    <Ref>CH-010</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-010.jpg</pic>
+    <price>  $90</price>
+    <Notes>  The MF11 is the updated version of the Chinese MF11B. The main difference between the MF11B and the MF11 is that the MF11 features a drinking system and the MF11B does not. The mask uses a black rubber face piece similar to the MF12 Civilian mask and an identical head harness and exhale valve/speech diaphragm assembly. Due to recent events, many MF11s and MF11Bs have been appearing in large numbers on the surplus market.</Notes>
+</type>
+
+<type> MF12
+    <name>MF12</name>
+    <Translation> </Translation>
+    <Aliases>   n/a</Aliases>
+    <Date>   c. 1990s</Date>
+    <Frequency> Rare</Frequency>
+    <Country>  China</Country>
+    <Function>  Military</Function>
+    <Refrence> CH-011</Refrence>
+    <Ref>CH-011</Ref>
+    <pic>https://rivethead13.github.io/Images/CH-011.jpg</pic>
+    <price>  $100</price>
+    <Notes>  The MF12 is a simply designed mask intended for civilian defense. It is noticeably similar to the Chinese MF11 as it uses the same exhale valve/speech diaphragm assembly and head harness. The MF12 is not very common on the surplus market as few were exported from China.</Notes>
+</type>             </masks>
