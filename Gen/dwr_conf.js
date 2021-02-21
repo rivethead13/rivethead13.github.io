@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="<p class=\'copyright\'><a rel=\"license\" href=\"http://creativecommons.org/licenses/by/2.5/\"><img alt=\"Creative Commons License - By attribution\" title=\"Creative Commons License - By attribution\" src=\"data/somerights20.gif\" /></a></p>";
+COPYRIGHT="";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
