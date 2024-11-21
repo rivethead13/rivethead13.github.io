@@ -1,0 +1,268 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Space Engineers</title>
+		<meta name="viewport" content="width=device-width, initial-scale=0.55">
+		<style>
+body {
+  background: #24282f;                                /* main background color in case of no image */
+  font-family: 'Arial';                               /* font arial which should be readable */
+  Height:100%;                                        /* set width to 100% also needed for background */
+  margin:0px;                                         /* hide any margins */
+  background-size: cover;                             /* size background image without distortion along width and height */
+  background-repeat: no-repeat;                       /* no background repeat */
+  Background-attachment:fixed;                        /* needed to make background image behave properly */
+  overflow-y:hidden;                                  /* no normal overflow, only our containers (details & description) will overflow or have scrollbar * /
+}
+ 
+html {
+  height:100%;                                        /* need to set this to 100% to make the background behave propertly */
+}
+
+.title h2 {
+  padding-left: 25px;                                 /* left padding */
+  color: #ccc;                                        /* text color */
+  margin: 0;                                          /* no margins */
+  background-color: black;                            /* black background */
+  vertical-align: middle;                             /* align vertical middle */
+  height: 48px;
+}
+
+.title {
+	width: 100%;                                      /* title container width 100% */
+	grid-column: 1 / span 3;                          /* column 1 but spans 3 */
+    grid-row: 1;                                      /* row 1 */
+	height: 48px;
+}
+.cards {                                              /* empty not used here */
+}
+
+.card {
+	display: grid;                                    /* container which is the grid */
+	grid-template-columns: min-content;               /* size columns to minimum content */
+	grid-template-rows: min-content min-content;      /* size rows to minimum content */
+	height: 100vh;                                    /* 100% viewport height */
+}
+
+.detailstitle{
+  grid-column: 1;                                     /* 1st column */
+  grid-row: 2;                                        /* 2nd row */
+  width: 350px;                                       /* fixed width set to same size as details */
+  padding-left: 10px;                                 /* some padding left */
+  padding-right: 10px;                                /* some padding right */
+}
+
+.details {
+  padding-left: 10px;                                 /* some padding left */
+  padding-right: 10px;                                /* some padding right */
+  color: #ccc;
+  grid-column: 1;                                      /* 1st column */
+  grid-row: 3;                                         /* 3rd row of grid */
+  width: 350px;                                        /* fixed width of details */
+  overflow-y: auto;                                     /* add vertical scrollbar if needed */
+  overflow-x:hidden;                                   /* don't overflow on x axis (no horz scrollbar) */
+ }
+ 
+.detailstitle h3,
+.descriptiontitle h3 {
+	border-bottom: 1px solid #ccc;                     /* titles of description details should have line under it */
+	padding: 5px;                                      /* add some padding */
+	color: #ccc;                                       /* text color of the titles */
+}
+
+.detailstable th, td {
+  border: 0px;                                         /* no borders on td, th elements */
+  color: #ccc;                                         /* details table text color */
+}
+
+.detailstable td {
+  text-align: left;                                    /* align text left */
+  vertical-align: top;                                 /* align top */
+}
+
+.detailstable {
+  width: 100%;                                         /* set to full width of details */
+  padding: 5px;                                        /* add some padding */
+}
+
+.descriptiontitle {
+	grid-column: 2;                                    /* column 2 of grid */
+	grid-row: 2;                                       /* row 2 of grid */
+	padding-left: 10px;                                /* some padding left */
+	padding-right: 10px;                               /* some padding right */
+}
+
+
+.description {
+	color: #ccc;                                       /* text color */
+	grid-column: 2;                                    /* 2nd column of grid */
+	grid-row: 3;                                       /* 3rd row of grid */
+	overflow-y: auto;                                  /* overflow-y automatic (for adding scrollbar) */
+	overflow-x:hidden;                                 /* prevent horizontal scrollbar */
+	padding-left: 10px;                                /* some padding left */
+	padding-right: 10px;                               /* some padding right */
+}
+
+.description img {
+	max-width: 100%;                                   /* make sure images don't overflow in width to prevent scrollbars */
+}
+
+.MenuButton {
+  border: none;                                        /* Remove borders */
+  outline: none;                                       /* Remove outline */
+  background-color: #888;                              /* Set a background color */
+  color: #000;                                         /* Text color */
+  padding: 5px;                                        /* Some padding */
+  border-radius: 4px;                                  /* Rounded corners, border */
+  font-size: 20px;                                     /* Increase font size */
+  cursor:pointer;                                         /* Add a mouse pointer on hover */
+  margin-right: 20px;                                  /* to have some space on right side before next element */
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: none;
+}
+
+.MenuButton:hover {
+  background-color: #777;                              /* Add a dark-grey background on hover */
+  color: #CCC;                                         /* Text color */
+}
+
+a {
+ text-decoration: none;                                /* no text underline in links */
+}
+a:link {
+  color: #CCC;                                         /* unvisited link color */
+}
+a:visited {
+  color: #CCC;                                         /* visited link color */
+}
+a:hover {
+  color: #EEE;                                         /* mouse over link color */
+  text-decoration: underline;                          /* add text underline in links when mouse over */
+}
+a:active {
+  color: #CCC;                                         /* selected link color */
+}
+
+                                                       /* scrollbars W3C standard that is currently Firefox-only */
+* {
+  scrollbar-width: thin;                               /* small width */
+  scrollbar-color: #888 transparent;                   /* trackbar color + transparant background */
+}
+
+                                                       /* scrollbars on Chrome/Edge/Safari */
+*::-webkit-scrollbar {
+  width: 12px;                                         /* small width */
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;                             /* background color track */
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #AAA;                              /* background */
+  border-radius: 20px;                                 /* rounded corner, border */
+  border: 3px solid #888;                              /* add the border */
+}
+
+		</style>
+	</head>
+	<body style="background-image: linear-gradient(to bottom, #24282f, rgba(100,100,100,0.73))">
+		<div class="cards">
+			<div class="card">
+				<div class="title">
+					<h2><button onclick="window.history.back()" class="MenuButton">Back</button> Space Engineers</h2>
+				</div>
+				<div class="detailstitle">
+				<H3>Details</H3>
+				</div>
+				<div class="details">
+					<div style="overflow: auto;">
+						<TABLE class="detailstable">
+							<col style="width:50%" />
+							<col style="width:50%" />							<TR>
+								<TD>Playtime</TD>
+								<TD>8h 9m 0s</TD>
+							</TR>
+							<TR>
+								<TD>Last Activity</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_lastactivity_descending_name_ascending.html#quicklink-8/27/2017">8/27/2017</a> 10:17:26</TD>
+							</TR>
+							<TR>
+								<TD>Added</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_added_descending_name_ascending.html#quicklink-5/10/2023">5/10/2023</a> 20:09:24</TD>
+							</TR>
+							<TR>
+								<TD>Modified</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_modified_descending_name_ascending.html#quicklink-5/13/2023">5/13/2023</a> 16:42:07</TD>
+							</TR>
+							<TR>
+								<TD>Completion Status</TD>
+								<TD><a href="default%20list%20text_completionstatus_ascending_name_ascending.html#quicklink-Completed">Completed</a></TD>
+							</TR>
+							<TR>
+								<TD>Library</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_library_ascending_name_ascending.html#quicklink-Steam">Steam</a></TD>
+							</TR>
+							<TR>
+								<TD>Source</TD>
+								<TD><a href="default%20list%20text_source_ascending_name_ascending.html#quicklink-Steam">Steam</a></TD>
+							</TR>
+							<TR>
+								<TD>Platform</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_platform_ascending_name_ascending.html#quicklink-PC (Windows)">PC (Windows)</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Release Date</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_releasedate_descending_name_ascending.html#quicklink-2/28/2019">2/28/2019</a> </TD>
+							</TR>
+							<TR>
+								<TD>Community Score</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_communityscore_descending_name_ascending.html#quicklink-63">63</a></TD>
+							</TR>
+							<TR>
+								<TD>Critic Score</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_criticscore_descending_name_ascending.html#quicklink-80">80</a></TD>
+							</TR>
+							<TR>
+								<TD>User Score</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_userscore_descending_name_ascending.html#quicklink-50">50</a></TD>
+							</TR>
+							<TR>
+								<TD>Genre</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_genre_ascending_name_ascending.html#quicklink-Adventure">Adventure</a><br/><a href="default%20list%20text%20combobox%20quicklinks_genre_ascending_name_ascending.html#quicklink-Indie">Indie</a><br/><a href="default%20list%20text%20combobox%20quicklinks_genre_ascending_name_ascending.html#quicklink-Shooter">Shooter</a><br/><a href="default%20list%20text%20combobox%20quicklinks_genre_ascending_name_ascending.html#quicklink-Simulator">Simulator</a><br/><a href="default%20list%20text%20combobox%20quicklinks_genre_ascending_name_ascending.html#quicklink-Strategy">Strategy</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Developer</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_developer_ascending_name_ascending.html#quicklink-Keen Software House">Keen Software House</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Publisher</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_publisher_ascending_name_ascending.html#quicklink-Keen Software House">Keen Software House</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Feature</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_feature_ascending_name_ascending.html#quicklink-Co-Operative">Co-Operative</a><br/><a href="default%20list%20text%20combobox%20quicklinks_feature_ascending_name_ascending.html#quicklink-Multiplayer">Multiplayer</a><br/><a href="default%20list%20text%20combobox%20quicklinks_feature_ascending_name_ascending.html#quicklink-Single Player">Single Player</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Links</TD>
+								<TD><a href="https://store.steampowered.com/app/244850" target="_blank">Steam</a><br/><a href="https://www.spaceengineersgame.com/" target="_blank">Official Website</a><br/><a href="https://en.wikipedia.org/wiki/Space_Engineers" target="_blank">Wikipedia</a><br/><a href="https://www.facebook.com/SpaceEngineers" target="_blank">Facebook</a><br/><a href="https://twitter.com/SpaceEngineersG" target="_blank">Twitter</a><br/><a href="https://www.youtube.com/user/SpaceEngineersGame" target="_blank">Youtube</a><br/><a href="https://www.reddit.com/r/spaceengineers" target="_blank">Reddit</a><br/><a href="https://www.twitch.tv/directory/game/Space Engineers" target="_blank">Twitch</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Tag</TD>
+								<TD></TD>
+							</TR>
+						</TABLE>
+					</div>
+				</div>
+				<div class="descriptiontitle">
+					<H3>Description</H3>
+				</div>
+				<div class="description">
+					<img src="https://cdn.akamai.steamstatic.com/steam/apps/244850/extras/steam_awards_2018_nominee.jpg?t=1681406332" /><br><br>Space Engineers is an open world sandbox game defined by creativity and exploration.<br><br>It is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, wheeled vehicles, space stations, planetary outposts of various sizes and uses (civil and military), pilot ships and travel through space to explore planets and gather resources to survive. Featuring both creative and survival modes, there is no limit to what can be built, utilized and explored.<br><br><img src="https://cdn.akamai.steamstatic.com/steam/apps/244850/extras/repair_gif.gif?t=1681406332" /><br><br>Space Engineers features a realistic, volumetric-based physics engine: everything in the game can be assembled, disassembled, damaged and destroyed. The game can be played either in single or multiplayer modes.<br><br>Volumetric objects are structures composed from block-like modules interlocked in a grid. Volumetric objects behave like real physical objects with mass, inertia and velocity. Individual modules have real volume and storage capacity.<br><br><img src="https://cdn.akamai.steamstatic.com/steam/apps/244850/extras/drop_pod_gif.gif?t=1681406332" /><br><br>Space Engineers is inspired by reality and by how things work. Think about modern-day NASA technology extrapolated 60 years into the future. Space Engineers strives to follow the laws of physics and doesn't use technologies that wouldn't be feasible in the near future.<br><br>Space Engineers concentrates on construction and exploration aspects, but can be played as a survival shooter as well. We expect players will avoid engaging in direct man-to-man combat and instead use their creativity and engineering skills to build war machines and fortifications to survive in space and on planets. Space Engineers shouldn’t be about troops; it should be about the machinery you build.<h2 class="bb_tag">CORE FEATURES</h2><ul class="bb_ul"><li><strong>Planets and moons</strong> – fully destructible &amp; persistent, volumetric, atmosphere, gravity, climate zones<br></li><li><strong>Game modes</strong><br> - Creative – unlimited resources, instant building, no death<br> - Survival – realistic management of resources and inventory capacity; manual building; death/respawn</li></ul><br><img src="https://cdn.akamai.steamstatic.com/steam/apps/244850/extras/green_base_gif.gif?t=1681406332" /><br><br><ul class="bb_ul"><li><strong>Single-player</strong> – you are the sole space engineer<br></li><li><strong>Multiplayer</strong><br> - Creative and survival mode with your friends<br> - Cooperative and competitive<br> - Privacy customization: offline, private, friends only, public<br> - Up to 16 players<br> - Dedicated servers<br></li><li><strong>New game options</strong><br> - Scenarios - offer linear story with action-packed gameplay, while the majority of Space Engineers scenarios feature unique sandbox environments where players create their own challenges. <br> - Workshop worlds - offer worlds created by other players. <br> - Custom worlds - offer variety of customizable worlds where you can start your own scenario. <br></li><li><strong>Customizable character</strong> - skins, colors, community market, male and female character<br></li><li><strong>Ships (small and large)</strong> – build and pilot them<br></li><li><strong>Space stations</strong><br></li><li><strong>Planetary bases, outposts, cities</strong><br></li><li><strong>First-person &amp; Third-person</strong><br></li><li><strong>Super-large worlds</strong> – the size of the world to 1,000,000,000 km in diameter (almost infinite)<br></li><li><strong>Procedural asteroids</strong> - an infinite number of asteroids to the game world<br></li><li><strong>Exploration</strong> - adds an infinite number of ships and stations to the game world; discover, explore, acquire and conquer!<br></li><li><strong>Drilling / harvesting</strong><br></li><li><strong>Manual building in survival mode</strong> – use welder to assemble blocks from components; use grinder to disassemble and reuse components<br></li><li><strong>Deformable and destructible objects</strong> – real proportions, mass, storage capacity, integrity<br><br><img src="https://cdn.akamai.steamstatic.com/steam/apps/244850/extras/crash_gif.gif?t=1681406332" /><br><br></li><li><strong>Visual script editor</strong> - players can create missions and game modes which can be played by other players. Capture the flag, death-match, racing or campaign driven missions - all can be done by using the editor, with your own rules and designs! Even main campaign and game scenarios were created in this tool.<br></li><li><strong>Building blocks</strong> - over 200 blocks (gravity generators, jump drive, turrets, doors, landing gears, assembler, refinery, rotors, wheels, thrusters, pistons, wind turbine and many more) <br></li><li><strong>Programmable block</strong> - allows players to write small programs that will be executed in the game<br></li><li><strong>Electricity</strong> – all blocks in a grid are wired in an electrical and computer network; electricity is generated by nuclear reactors or various power sources<br></li><li><strong>Gravity</strong> – produced by planets and gravity generators. Spherical gravity generator also available.<br></li><li><strong>Symmetry/Mirroring</strong> – useful in creative mode when building structures that require symmetry<br></li><li><strong>Weapons</strong> – automatic rifle, small and large explosive warheads, small ship gatling gun, small ship missile launcher<br></li><li><strong>Steam Workshop</strong> – share your creations with the Community (upload and download worlds, blueprints, MODs, scripts)<br></li><li><strong>Localized interface</strong><br> - Official localization: English, Russian, Chinese, French, Spanish, German, Italian, Portuguese-Brazil<br> - Community localization: Czech, Danish, Dutch, German, Icelandic, Polish, Spanish-Spain, Spanish-Latin America, Finnish, Hungarian, Estonian, Norwegian, Swedish, Slovak, Ukrainian<br></li><li><strong>Cargo ships</strong> - auto-piloted vessels (miners, freighters and military) that carry ore, ingots, constructions components and other materials from sector to sector. They can be looted but beware, they often contain booby traps!<br></li><li><strong>Oxygen</strong> - take off character's helmet, generate oxygen out of ice by using the oxygen generator<br></li><li><strong>Hydrogen</strong> - hydrogen thrusters, hydrogen tanks and hydrogen bottles<br></li><li><strong>Factions</strong> - create and join factions, determine ownership of blocks and manage the relations between them (hostile/ally). <br></li><li><strong>Remote control</strong> – control ships and turrets without being inside<br></li><li><strong>Modding</strong> - world files, shaders, textures, 3D models<br></li><li><strong>Modding API</strong> - brings a lot of new possibilities to modders and allows them to alter the game by writing C# scripts which have access to in-game objects<br></li><li><strong>Blueprints</strong> - save your ship or station on a blueprint and paste it into your game<br></li><li><strong>GPS</strong> - create, send, receive and manage GPS coordinates in the game<br></li><li><strong>Voxel hands</strong> - shape and form the asteroids and change their material (creative mode only)<br></li><li><strong>Xbox controller support</strong><br></li><li><strong>Sounds</strong> – realistic and arcade mode</li></ul><br>Space Engineers utilizes an in-house built VRAGE 2.0, realistic volumetric-based physics engine: all objects can be assembled, disassembled, damaged and destroyed. <br> <br><img src="https://cdn.akamai.steamstatic.com/steam/apps/244850/extras/timelapse_build_gif.gif?t=1681406332" /><h2 class="bb_tag">How to Play</h2>Start by watching this video tutorial:<br><a href="https://steamcommunity.com/linkfilter/?url=http://www.SpaceEngineersGame.com/how-to-play.html" target="_blank" rel=" noopener"  >http://www.SpaceEngineersGame.com/how-to-play.html</a><br> <h2 class="bb_tag">Performance Notes</h2>The performance depends on the complexity of your world and the configuration of your computer. Simple worlds run smoothly even on low-end computers, but a more complex world with rich object interactions could overload even high-end computers.<br><br>Please read our performance advices: <a href="https://steamcommunity.com/linkfilter/?url=https://www.spaceengineersgame.com/performance-advice/" target="_blank" rel=" noopener"  >https://www.spaceengineersgame.com/performance-advice/</a><br><br>Minimum requirements represent the bare minimum to run simple scenes and don’t guarantee a perfect experience.
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

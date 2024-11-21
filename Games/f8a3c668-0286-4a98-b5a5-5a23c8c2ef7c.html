@@ -1,0 +1,268 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Warlock - Master of the Arcane</title>
+		<meta name="viewport" content="width=device-width, initial-scale=0.55">
+		<style>
+body {
+  background: #24282f;                                /* main background color in case of no image */
+  font-family: 'Arial';                               /* font arial which should be readable */
+  Height:100%;                                        /* set width to 100% also needed for background */
+  margin:0px;                                         /* hide any margins */
+  background-size: cover;                             /* size background image without distortion along width and height */
+  background-repeat: no-repeat;                       /* no background repeat */
+  Background-attachment:fixed;                        /* needed to make background image behave properly */
+  overflow-y:hidden;                                  /* no normal overflow, only our containers (details & description) will overflow or have scrollbar * /
+}
+ 
+html {
+  height:100%;                                        /* need to set this to 100% to make the background behave propertly */
+}
+
+.title h2 {
+  padding-left: 25px;                                 /* left padding */
+  color: #ccc;                                        /* text color */
+  margin: 0;                                          /* no margins */
+  background-color: black;                            /* black background */
+  vertical-align: middle;                             /* align vertical middle */
+  height: 48px;
+}
+
+.title {
+	width: 100%;                                      /* title container width 100% */
+	grid-column: 1 / span 3;                          /* column 1 but spans 3 */
+    grid-row: 1;                                      /* row 1 */
+	height: 48px;
+}
+.cards {                                              /* empty not used here */
+}
+
+.card {
+	display: grid;                                    /* container which is the grid */
+	grid-template-columns: min-content;               /* size columns to minimum content */
+	grid-template-rows: min-content min-content;      /* size rows to minimum content */
+	height: 100vh;                                    /* 100% viewport height */
+}
+
+.detailstitle{
+  grid-column: 1;                                     /* 1st column */
+  grid-row: 2;                                        /* 2nd row */
+  width: 350px;                                       /* fixed width set to same size as details */
+  padding-left: 10px;                                 /* some padding left */
+  padding-right: 10px;                                /* some padding right */
+}
+
+.details {
+  padding-left: 10px;                                 /* some padding left */
+  padding-right: 10px;                                /* some padding right */
+  color: #ccc;
+  grid-column: 1;                                      /* 1st column */
+  grid-row: 3;                                         /* 3rd row of grid */
+  width: 350px;                                        /* fixed width of details */
+  overflow-y: auto;                                     /* add vertical scrollbar if needed */
+  overflow-x:hidden;                                   /* don't overflow on x axis (no horz scrollbar) */
+ }
+ 
+.detailstitle h3,
+.descriptiontitle h3 {
+	border-bottom: 1px solid #ccc;                     /* titles of description details should have line under it */
+	padding: 5px;                                      /* add some padding */
+	color: #ccc;                                       /* text color of the titles */
+}
+
+.detailstable th, td {
+  border: 0px;                                         /* no borders on td, th elements */
+  color: #ccc;                                         /* details table text color */
+}
+
+.detailstable td {
+  text-align: left;                                    /* align text left */
+  vertical-align: top;                                 /* align top */
+}
+
+.detailstable {
+  width: 100%;                                         /* set to full width of details */
+  padding: 5px;                                        /* add some padding */
+}
+
+.descriptiontitle {
+	grid-column: 2;                                    /* column 2 of grid */
+	grid-row: 2;                                       /* row 2 of grid */
+	padding-left: 10px;                                /* some padding left */
+	padding-right: 10px;                               /* some padding right */
+}
+
+
+.description {
+	color: #ccc;                                       /* text color */
+	grid-column: 2;                                    /* 2nd column of grid */
+	grid-row: 3;                                       /* 3rd row of grid */
+	overflow-y: auto;                                  /* overflow-y automatic (for adding scrollbar) */
+	overflow-x:hidden;                                 /* prevent horizontal scrollbar */
+	padding-left: 10px;                                /* some padding left */
+	padding-right: 10px;                               /* some padding right */
+}
+
+.description img {
+	max-width: 100%;                                   /* make sure images don't overflow in width to prevent scrollbars */
+}
+
+.MenuButton {
+  border: none;                                        /* Remove borders */
+  outline: none;                                       /* Remove outline */
+  background-color: #888;                              /* Set a background color */
+  color: #000;                                         /* Text color */
+  padding: 5px;                                        /* Some padding */
+  border-radius: 4px;                                  /* Rounded corners, border */
+  font-size: 20px;                                     /* Increase font size */
+  cursor:pointer;                                         /* Add a mouse pointer on hover */
+  margin-right: 20px;                                  /* to have some space on right side before next element */
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  text-decoration: none;
+}
+
+.MenuButton:hover {
+  background-color: #777;                              /* Add a dark-grey background on hover */
+  color: #CCC;                                         /* Text color */
+}
+
+a {
+ text-decoration: none;                                /* no text underline in links */
+}
+a:link {
+  color: #CCC;                                         /* unvisited link color */
+}
+a:visited {
+  color: #CCC;                                         /* visited link color */
+}
+a:hover {
+  color: #EEE;                                         /* mouse over link color */
+  text-decoration: underline;                          /* add text underline in links when mouse over */
+}
+a:active {
+  color: #CCC;                                         /* selected link color */
+}
+
+                                                       /* scrollbars W3C standard that is currently Firefox-only */
+* {
+  scrollbar-width: thin;                               /* small width */
+  scrollbar-color: #888 transparent;                   /* trackbar color + transparant background */
+}
+
+                                                       /* scrollbars on Chrome/Edge/Safari */
+*::-webkit-scrollbar {
+  width: 12px;                                         /* small width */
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;                             /* background color track */
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #AAA;                              /* background */
+  border-radius: 20px;                                 /* rounded corner, border */
+  border: 3px solid #888;                              /* add the border */
+}
+
+		</style>
+	</head>
+	<body style="background-image: linear-gradient(to bottom, #24282f, rgba(100,100,100,0.73))">
+		<div class="cards">
+			<div class="card">
+				<div class="title">
+					<h2><button onclick="window.history.back()" class="MenuButton">Back</button> Warlock - Master of the Arcane</h2>
+				</div>
+				<div class="detailstitle">
+				<H3>Details</H3>
+				</div>
+				<div class="details">
+					<div style="overflow: auto;">
+						<TABLE class="detailstable">
+							<col style="width:50%" />
+							<col style="width:50%" />							<TR>
+								<TD>Playtime</TD>
+								<TD>Not Played</TD>
+							</TR>
+							<TR>
+								<TD>Last Activity</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_lastactivity_descending_name_ascending.html#quicklink-Never">Never</a> </TD>
+							</TR>
+							<TR>
+								<TD>Added</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_added_descending_name_ascending.html#quicklink-5/10/2023">5/10/2023</a> 20:09:24</TD>
+							</TR>
+							<TR>
+								<TD>Modified</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_modified_descending_name_ascending.html#quicklink-5/10/2023">5/10/2023</a> 20:13:06</TD>
+							</TR>
+							<TR>
+								<TD>Completion Status</TD>
+								<TD><a href="default%20list%20text_completionstatus_ascending_name_ascending.html#quicklink-Not Played">Not Played</a></TD>
+							</TR>
+							<TR>
+								<TD>Library</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_library_ascending_name_ascending.html#quicklink-Steam">Steam</a></TD>
+							</TR>
+							<TR>
+								<TD>Source</TD>
+								<TD><a href="default%20list%20text_source_ascending_name_ascending.html#quicklink-Steam">Steam</a></TD>
+							</TR>
+							<TR>
+								<TD>Platform</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_platform_ascending_name_ascending.html#quicklink-PC (Windows)">PC (Windows)</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Release Date</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_releasedate_descending_name_ascending.html#quicklink-5/8/2012">5/8/2012</a> </TD>
+							</TR>
+							<TR>
+								<TD>Community Score</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_communityscore_descending_name_ascending.html#quicklink-57">57</a></TD>
+							</TR>
+							<TR>
+								<TD>Critic Score</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_criticscore_descending_name_ascending.html#quicklink-73">73</a></TD>
+							</TR>
+							<TR>
+								<TD>User Score</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_userscore_descending_name_ascending.html#quicklink-"></a></TD>
+							</TR>
+							<TR>
+								<TD>Genre</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_genre_ascending_name_ascending.html#quicklink-Strategy">Strategy</a><br/><a href="default%20list%20text%20combobox%20quicklinks_genre_ascending_name_ascending.html#quicklink-Turn-based strategy (TBS)">Turn-based strategy (TBS)</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Developer</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_developer_ascending_name_ascending.html#quicklink-1C:Ino-Co Plus">1C:Ino-Co Plus</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Publisher</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_publisher_ascending_name_ascending.html#quicklink-Paradox Interactive">Paradox Interactive</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Feature</TD>
+								<TD><a href="default%20list%20text%20combobox%20quicklinks_feature_ascending_name_ascending.html#quicklink-Multiplayer">Multiplayer</a><br/><a href="default%20list%20text%20combobox%20quicklinks_feature_ascending_name_ascending.html#quicklink-Single Player">Single Player</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Links</TD>
+								<TD><a href="https://store.steampowered.com/app/203630" target="_blank">Steam</a><br/><a href="http://www.paradoxplaza.com/games/warlock-master-of-the-arcane" target="_blank">Official Website</a><br/><a href="https://www.twitch.tv/directory/game/Warlock: Master of the Arcane" target="_blank">Twitch</a><br/></TD>
+							</TR>
+							<TR>
+								<TD>Tag</TD>
+								<TD></TD>
+							</TR>
+						</TABLE>
+					</div>
+				</div>
+				<div class="descriptiontitle">
+					<H3>Description</H3>
+				</div>
+				<div class="description">
+					The Warlock: Master of the Arcane Complete Collection brings together the complete trials and tribulations of mage and magic which includes:<br><br>Warlock: Master of the Arcane – Armageddon<br>Warlock: Master of the Arcane – Return of the Elves<br>Warlock: Master of the Arcane – Master of Artifacts<br>Warlock: Master of the Arcane – Power of the Serpent<br>Warlock: Master of the Arcane – Powerful Lords<br><br><strong>Warlock - Master of the Arcane</strong><br>In a time of chaotic upheaval, the player takes the role of a great mage, a warlord vying for ultimate power. Your mission is to build an empire, expand your borders, research new spells and conquer your enemies. Become the ultimate Warlock and rule over all of Ardania!<br><br><strong>Main Features:</strong><br><ul class="bb_ul"><li>Feel the magic: Research and master dozens of spells, conjure powerful enchantments and discover awesome spell combinations.<br></li><li>Ready an army: Command an expansive range of units, all with unique abilities.<br></li><li>Choose your strategy: There are various ways to achieve victory: by military, diplomatic or even magical means.<br></li><li>Fight your enemies: Engage in epic battles with large armies marching across the landscape. <br></li><li>Command the game: Enjoy an innovative city management system, where there are no routine actions, and every decision counts!<br></li><li>Have faith: Fight on the side of one of the eight gods. Complete their quests and spread their temples across the lands or become one yourself!<br></li><li>Follow the traditions: Warlock – Master of the Arcane inherits all the best elements of the famous turn based strategies of old.</li></ul><br>________________________________________________<br><strong>Warlock: Master of the Arcane - Armageddon</strong><br><br><strong>About This Content:</strong><br>The ancient prophecy has come true. The End Times are near. The boundaries between worlds have fallen, and the Dremer have entered Ardania. The Great Mages are the only ones who can possibly defend the land, and now more than ever, they need a leader who can gather a force large enough to defeat the Dremer once and for all. Will it be you?<br><br><strong>Key Features:</strong><br><ul class="bb_ul"><li>New Armageddon Game Mode: Fight against the powerful Dremer while terrible cataclysms tear Ardania apart<br></li><li>Two new Great Mages: The Dragon Queen &amp; Krel the Kingpin<br></li><li>New Perks For Great Mages<br></li><li>Favor of Krolm – Adds 30 points of relationship with Krolm · Clean the Land – Adds the spell “Clean the Land” to the spellbook ·<br></li><li>Elven Followers – Provides a unit of Elven Archers · Elven Relatives – Ensures the appearance of an Elven village near a Great Mage’s capitol</li></ul><br>________________________________________________<br><strong>Warlock: Master of the Arcane: Return of the Elves</strong><br><br><strong>About This Content:</strong><br>The elves from the knightly order of Arethi return to Ardania. They come not to serve as they did in the past but to conquer. They bring along the True Knowledge, and intend to share its’ light with everyone who will accept it, willingly or otherwise.<br><br><strong>Key Features:</strong><br><ul class="bb_ul"><li>New race of the Arethi Elves with all its might and glory:<br></li><li>18 new units<br></li><li>20 brand new city buildings<br></li><li>Additional new perks and abilities<br></li><li>New Great Mage – Grand Master Amberon the Dark<br></li><li>New perks for Great mages:<br></li><li>Glorious Tactician - Increases the attack power of all units of a Great mage</li></ul><br>________________________________________________<br><strong>Warlock: Master of the Arcane – Master of Artifacts</strong><br><br><strong>About This Content:</strong><br>The ancient and almost forgotten art of making artifacts returns to Ardania. Now every Great Mage can create powerful artifacts imbued with spells, abilities, or even strength of the gods!<br><br><strong>Key Features:</strong><br><ul class="bb_ul"><li>Using special spells artifacts can be created<br></li><li>Special units of lords can be given artifacts (which will be available via free patch)<br></li><li>Artifacts can be found in monster dens, received as quests rewards, gained and lost during battles, bought from Trader of Artifacts or smelted to mana.</li></ul><br>________________________________________________<br><strong>Warlock: Master of the Arcane – Power of the Serpent</strong><br><br><strong>About This Content:</strong><br>Play as the all new Great Mage, Malixalxochi, Wizard Queen of a powerful race of reptilian warriors known as the Koatl. Renowned for her cruelty and ferocity, she is a formidable foe to anyone in Ardania who dares oppose her.<br><br>The new Mage brings two new perks to the battlefield: Lord of Koatls and Koatl Training. As Lord of her race she can hire fierce reptile Spears, Hunters, Warlocks and of course the powerful Giant Turtle. Then instruct any of your units with Koatl training for increased protection from ranged an Melee attacks. Crush your enemies with the Power of the Serpent!<br><br><strong>Key Features:</strong><br><ul class="bb_ul"><li>The Great Mage Malinalxochi, the Queen of Serpents.<br></li><li>New perks for Great Mages:<br></li><li>Koatl Training – Increased protection from melee and ranged attacks for all of your Great Mage's units.<br></li><li>Lord of Koatls – Ensures the appearance of a Koatl village near the capitol of a Great Mage.<br></li><li>The Koatl village is a local resource that allows for the construction of buildings that enable the player to hire Koatl Hunters, Koatl Spears, Koatl Warlocks, and a powerful Giant Turtle.</li></ul><br>________________________________________________<br><strong>Warlock: Master of the Arcane: Powerful Lords</strong><br><br><strong>About This Content:</strong><br>You are introduced to two powerful lords: the High Blademaster and the Imp Adviser. The two lords will appear near the capitol of the Great Mage who selects the “Master of Blades” and “Demonic Adviser” faction perks at the start of the game.
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
